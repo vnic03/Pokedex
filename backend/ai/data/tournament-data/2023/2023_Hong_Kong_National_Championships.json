@@ -1,0 +1,1167 @@
+[
+    {
+        "trainer_name": "by Y$Lena",
+        "tournament_name": "Vancouver",
+        "pokemons": [
+            {
+                "name": "Lilligant",
+                "item": "Focus Sash",
+                "ability": "Chlorophyll",
+                "tera_type": "Ghost",
+                "evs": {
+                    "HP": 4,
+                    "SpA": 252,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Sleep Powder",
+                    "Leaf Storm",
+                    "After You",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Torkoal",
+                "item": "Charcoal",
+                "ability": "Drought",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 252,
+                    "SpA": 252,
+                    "SpD": 4
+                },
+                "nature": "Quiet",
+                "moves": [
+                    "Eruption",
+                    "Flamethrower",
+                    "Earth Power",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "evs": {
+                    "HP": 20,
+                    "Def": 84,
+                    "SpA": 196,
+                    "SpD": 4,
+                    "Spe": 204
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Power Gem"
+                ]
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 196,
+                    "Def": 4,
+                    "SpD": 52,
+                    "Spe": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Sucker Punch",
+                    "Iron Head",
+                    "Tera Blast"
+                ]
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 180,
+                    "Atk": 252,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 68
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Tera Blast",
+                    "Ice Spinner",
+                    "Extreme Speed",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Choice Scarf",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "evs": {
+                    "Atk": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Headlong Rush",
+                    "Earthquake",
+                    "Close Combat",
+                    "Rock Slide"
+                ]
+            }
+        ],
+        "placement": "1",
+        "winrate": "12-2"
+    },
+    {
+        "trainer_name": "by SableyeVGC",
+        "tournament_name": "Nine Nine!",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 84,
+                    "Def": 100,
+                    "SpA": 116,
+                    "SpD": 4,
+                    "Spe": 204
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Energy Ball"
+                ]
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 220,
+                    "Atk": 220,
+                    "Def": 4,
+                    "SpD": 60,
+                    "Spe": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Iron Head",
+                    "Assurance",
+                    "Low Kick",
+                    "Sucker Punch"
+                ]
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "evs": {
+                    "SpA": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Arcanine",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 116,
+                    "Atk": 44,
+                    "Def": 44,
+                    "SpD": 108,
+                    "Spe": 196
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 252,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Corviknight",
+                "item": "Safety Goggles",
+                "ability": "Mirror Armor",
+                "tera_type": "Dragon",
+                "evs": {
+                    "HP": 148,
+                    "Atk": 108,
+                    "Def": 124,
+                    "SpD": 68,
+                    "Spe": 60
+                },
+                "nature": "Careful",
+                "moves": [
+                    "Brave Bird",
+                    "Bulk Up",
+                    "Roost",
+                    "Tailwind"
+                ]
+            }
+        ],
+        "placement": "2",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Dylan Salvanera's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Sandy Shocks",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Thunderbolt",
+                    "Volt Switch",
+                    "Earth Power",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "moves": [
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Focus Sash",
+                "ability": "Quark Drive",
+                "tera_type": "Ice",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tauros-Paldea-Blaze",
+                "item": "Mirror Herb",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Close Combat",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Breaking Swipe",
+                    "Throat Chop",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Baxcalibur",
+                "item": "Dragon Fang",
+                "ability": "Thermal Exchange",
+                "tera_type": "Poison",
+                "moves": [
+                    "Icicle Crash",
+                    "Glaive Rush",
+                    "Ice Shard",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "3",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Aaron Zheng's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Baxcalibur",
+                "item": "Assault Vest",
+                "ability": "Thermal Exchange",
+                "tera_type": "Ground",
+                "moves": [
+                    "Glaive Rush",
+                    "Icicle Crash",
+                    "Earthquake",
+                    "Ice Shard"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Icy Wind",
+                    "Freeze-Dry",
+                    "Encore",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brute Bonnet",
+                "item": "Loaded Dice",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Bullet Seed",
+                    "Crunch",
+                    "Spore",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Power Gem"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Ice Spinner",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Talonflame",
+                "item": "Safety Goggles",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Brave Bird",
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "4",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Zackary Thornberg's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Ceruledge",
+                "item": "Assault Vest",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Bitter Blade",
+                    "Tera Blast",
+                    "Shadow Sneak",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Sylveon",
+                "item": "Sitrus Berry",
+                "ability": "Pixilate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Hyper Voice",
+                    "Psych Up",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Focus Sash",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Draco Meteor",
+                    "Taunt",
+                    "Muddy Water",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dondozo",
+                "item": "Leftovers",
+                "ability": "Unaware",
+                "tera_type": "Steel",
+                "moves": [
+                    "Order Up",
+                    "Substitute",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Glimmora",
+                "item": "Passho Berry",
+                "ability": "Toxic Debris",
+                "tera_type": "Dark",
+                "moves": [
+                    "Power Gem",
+                    "Mortal Spin",
+                    "Earth Power",
+                    "Spiky Shield"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "moves": [
+                    "Moonblast",
+                    "Perish Song",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "5",
+        "winrate": "12-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Neil Patel's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Dondozo",
+                "item": "Leftovers",
+                "ability": "Unaware",
+                "tera_type": "Grass",
+                "moves": [
+                    "Wave Crash",
+                    "Earthquake",
+                    "Protect",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Glimmora",
+                "item": "Assault Vest",
+                "ability": "Toxic Debris",
+                "tera_type": "Grass",
+                "moves": [
+                    "Power Gem",
+                    "Sludge Bomb",
+                    "Mortal Spin",
+                    "Earth Power"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Choice Scarf",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Muddy Water",
+                    "Icy Wind",
+                    "Draco Meteor",
+                    "Sleep Talk"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Hydro Pump",
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Earthquake",
+                    "Close Combat",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Normal",
+                "moves": [
+                    "Outrage",
+                    "Ice Spinner",
+                    "Extreme Speed",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "6",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Gavin Michaels's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Volcarona",
+                "item": "Leftovers",
+                "ability": "Flame Body",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flamethrower",
+                    "Giga Drain",
+                    "Quiver Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Azumarill",
+                "item": "Choice Band",
+                "ability": "Huge Power",
+                "tera_type": "Water",
+                "moves": [
+                    "Aqua Jet",
+                    "Liquidation",
+                    "Play Rough",
+                    "Ice Spinner"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Mimikyu",
+                "item": "Mental Herb",
+                "ability": "Disguise",
+                "tera_type": "Steel",
+                "moves": [
+                    "Shadow Claw",
+                    "Will-O-Wisp",
+                    "Taunt",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Fake Out",
+                    "Close Combat",
+                    "Wild Charge",
+                    "Volt Switch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Pelipper",
+                "item": "Focus Sash",
+                "ability": "Drizzle",
+                "tera_type": "Flying",
+                "moves": [
+                    "Hurricane",
+                    "Hydro Pump",
+                    "Wide Guard",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brute Bonnet",
+                "item": "Sitrus Berry",
+                "ability": "Protosynthesis",
+                "tera_type": "Poison",
+                "moves": [
+                    "Spore",
+                    "Seed Bomb",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "7",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by Guest 7492191",
+        "tournament_name": "P4r4d0x",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 244,
+                    "Def": 108,
+                    "SpD": 156
+                },
+                "nature": "Sassy",
+                "moves": [
+                    "Leaf Storm",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Life Orb",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "evs": {
+                    "Atk": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "evs": {
+                    "HP": 252,
+                    "Def": 44,
+                    "SpA": 132,
+                    "SpD": 12,
+                    "Spe": 68
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Thunderbolt"
+                ]
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ice",
+                "evs": {
+                    "HP": 4,
+                    "SpA": 252,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Icy Wind",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Tyranitar",
+                "item": "Assault Vest",
+                "ability": "Sand Stream",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 124,
+                    "Atk": 204,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 172
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Rock Slide",
+                    "Crunch",
+                    "Low Kick",
+                    "Tera Blast"
+                ]
+            },
+            {
+                "name": "Talonflame",
+                "item": "Covert Cloak",
+                "ability": "Gale Wings",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 172,
+                    "Atk": 116,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 212
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Brave Bird",
+                    "Will-O-Wisp",
+                    "Taunt",
+                    "Tailwind"
+                ]
+            }
+        ],
+        "placement": "8",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by ROSELIA LISA",
+        "tournament_name": "Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Copy of Untitled 135",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 244,
+                    "Def": 156,
+                    "SpD": 108
+                },
+                "nature": "Relaxed",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Ting-Lu",
+                "item": "Lum Berry",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Poison",
+                "evs": {
+                    "HP": 68,
+                    "Atk": 156,
+                    "Def": 28,
+                    "SpD": 252,
+                    "Spe": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Heavy Slam",
+                    "Stomping Tantrum",
+                    "Ruination",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Gyarados",
+                "item": "Rocky Helmet",
+                "ability": "Intimidate",
+                "tera_type": "Steel",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 4,
+                    "Def": 68,
+                    "SpD": 4,
+                    "Spe": 180
+                },
+                "nature": "Careful",
+                "moves": [
+                    "Waterfall",
+                    "Thunder Wave",
+                    "Taunt",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Leftovers",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 84,
+                    "Atk": 76,
+                    "Def": 68,
+                    "SpD": 252,
+                    "Spe": 28
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Drain Punch",
+                    "Thunder Punch",
+                    "Swords Dance",
+                    "Detect"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "evs": {
+                    "HP": 4,
+                    "Def": 84,
+                    "SpA": 156,
+                    "SpD": 12,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ]
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Safety Goggles",
+                "ability": "Beads of Ruin",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 228,
+                    "Def": 132,
+                    "SpA": 52,
+                    "SpD": 28,
+                    "Spe": 68
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Dark Pulse",
+                    "Flamethrower",
+                    "Nasty Plot",
+                    "Protect"
+                ]
+            }
+        ],
+        "placement": "T4",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by ProtomanVGC",
+        "tournament_name": "Hk National amended",
+        "pokemons": [
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "evs": {
+                    "HP": 248,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "evs": {
+                    "HP": 68,
+                    "Def": 116,
+                    "SpA": 116,
+                    "SpD": 4,
+                    "Spe": 204
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ]
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 252,
+                    "Spe": 252
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "M",
+                "item": "Choice Band",
+                "ability": "Inner Focus",
+                "tera_type": "Normal",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 252,
+                    "Spe": 252
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Extreme Speed",
+                    "Aqua Jet",
+                    "Fire Punch",
+                    "Outrage"
+                ]
+            },
+            {
+                "name": "M",
+                "item": "Life Orb",
+                "ability": "Gale Wings",
+                "tera_type": "Flying",
+                "evs": {
+                    "Atk": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Brave Bird",
+                    "Tailwind",
+                    "Quick Guard",
+                    "Taunt"
+                ]
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Leftovers",
+                "ability": "Beads of Ruin",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 4,
+                    "SpA": 252,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Heat Wave",
+                    "Protect",
+                    "Substitute",
+                    "Dark Pulse"
+                ]
+            }
+        ],
+        "placement": "T8",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Ian Roberts's 2023 Orlando Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Gothitelle",
+                "item": "Leftovers",
+                "ability": "Shadow Tag",
+                "tera_type": "Steel",
+                "moves": [
+                    "Protect",
+                    "Psychic",
+                    "Fake Out",
+                    "Heal Pulse"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "moves": [
+                    "Protect",
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Protect",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Perish Song"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Dark",
+                "moves": [
+                    "Protect",
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Snarl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Close Combat"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Volt Switch",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "105",
+        "winrate": "7-3"
+    }
+]

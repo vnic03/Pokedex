@@ -1,0 +1,42 @@
+
+Turniner-daten von 2023/24
+TypeChart
+Pokemon database
+match reports zu verhsidnen kämpfen
+
+
+vgc rules and rulesets
+
+
+
+
+
+The list of permitted Pokémon changes with each Series. For the current format, Regulation Set A, the following Pokémon are allowed:
+
+Paldea Pokédex: #001-375, #388-392
+
+
+The list of permitted Pokémon changes with each Series. For Regulation Set B, the following Pokémon are allowed:
+
+Paldea Pokédex: #001-392, #397-398
+This allows the Paradox Pokémon (except Walking Wake and Iron Leaves), which could not be used in Regulation Set A.
+
+Due to the connectivity with Pokémon GO, all Vivillon patterns except Poké Ball are now available.
+
+
+
+The list of permitted Pokémon changes with each Series. For Regulation Set C, the following Pokémon are allowed:
+
+Paldea Pokédex: #001-398
+This allows the Treasures of Ruin, which could not be used in Regulation Set B.
+
+Although connectivity with Pokémon HOME became available while this was the official ruleset, Pokémon coming from Pokémon HOME were still not allowed, so HOME-exclusive forms (such as Pikachu in a Cap or Gimmighoul Roaming Form) are still ineligible.
+
+
+
+
+
+Paldea Pokédex: #001-398 (all Pokémon, including all Pikachu in a Cap, Poké Ball Pattern Vivillon and Roaming Form Gimmighoul; except for Koraidon and Miraidon).
+Pokémon HOME-exclusive Pokémon: a select list of Pokémon species that is not regularly available in Paldea, but may be brought into the region through Pokémon HOME, is now legal. Check the table below.
+
+

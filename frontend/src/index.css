@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+html body {
+    background-color: #1a1a2e !important;
+}
+
+.card {
+    background-color: #16213e;
+}
+
+a, p {
+    color: #a5a5a5 !important;
+}
+
+.highlight {
+    background-color: #7b2cbf;
+    color: #ffffff;
+}
+
+.accent {
+    color: #e94560;
+}
+
+
+.custom-tooltip {
+    background-color: #333 !important;
+    color: #fff !important;
+    border: 1px solid #777 !important;
+    border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 14px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.modal {
+    background-color: #16213e; /* TODO: Vielleicht ein cooles background color finden was zum blau passt*/
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    max-width: 90%;
+    max-height: 90%;
+    overflow-y: auto;
+}
+
+

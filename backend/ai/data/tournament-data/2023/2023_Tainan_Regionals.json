@@ -1,0 +1,325 @@
+[
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Sayha's Tainan Regionals Top 8 Team (6-0 record in Swiss)",
+        "pokemons": [
+            {
+                "name": "Meowscarada",
+                "item": "Focus Sash",
+                "ability": "Overgrow",
+                "evs": {
+                    "Atk": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Flower Trick",
+                    "Sucker Punch",
+                    "Trick Room",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Kingambit",
+                "item": "Black Glasses",
+                "ability": "Defiant",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 252,
+                    "SpD": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Sucker Punch",
+                    "Iron Head",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 236,
+                    "Def": 188,
+                    "SpD": 84
+                },
+                "nature": "Bold",
+                "moves": [
+                    "Clear Smog",
+                    "Rage Powder",
+                    "Spore",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Armarouge",
+                "item": "Covert Cloak",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 244,
+                    "Def": 68,
+                    "SpA": 116,
+                    "SpD": 76,
+                    "Spe": 4
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Armor Cannon",
+                    "Expanding Force",
+                    "Trick Room",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Tauros-Paldea-Water",
+                "item": "Assault Vest",
+                "ability": "Anger Point",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 252,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Raging Bull",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Tera Blast"
+                ]
+            },
+            {
+                "name": "Sylveon",
+                "item": "Leftovers",
+                "ability": "Pixilate",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 180,
+                    "Def": 172,
+                    "SpA": 156
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Hyper Voice",
+                    "Tera Blast",
+                    "Yawn",
+                    "Protect"
+                ]
+            }
+        ],
+        "placement": "5",
+        "winrate": "6-0"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Chemto's Tainan Regionals Top 8 Team (4-2 record in Swiss)",
+        "pokemons": [
+            {
+                "name": "Goodra",
+                "item": "Choice Specs",
+                "ability": "Sap Sipper",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 12,
+                    "Def": 20,
+                    "SpA": 252,
+                    "SpD": 4,
+                    "Spe": 220
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Muddy Water",
+                    "Draco Meteor",
+                    "Thunderbolt",
+                    "Flamethrower"
+                ]
+            },
+            {
+                "name": "Farigiraf",
+                "item": "Safety Goggles",
+                "ability": "Armor Tail",
+                "evs": {
+                    "HP": 92,
+                    "Def": 252,
+                    "SpA": 156,
+                    "SpD": 4,
+                    "Spe": 4
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Psychic",
+                    "Protect",
+                    "Imprison",
+                    "Trick Room"
+                ]
+            },
+            {
+                "name": "Arcanine",
+                "item": "Assault Vest",
+                "ability": "Intimidate",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 52,
+                    "Spe": 204
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Wild Charge",
+                    "Close Combat"
+                ]
+            },
+            {
+                "name": "Meowscarada",
+                "item": "Focus Sash",
+                "ability": "Overgrow",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 252,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Flower Trick",
+                    "Protect",
+                    "Sucker Punch",
+                    "U-turn"
+                ]
+            },
+            {
+                "name": "Annihilape",
+                "item": "Sitrus Berry",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 172,
+                    "Atk": 196,
+                    "Spe": 140
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Rage Fist",
+                    "Protect",
+                    "Bulk Up",
+                    "Drain Punch"
+                ]
+            },
+            {
+                "name": "M",
+                "item": "Lagging Tail",
+                "ability": "Prankster",
+                "evs": {
+                    "HP": 244,
+                    "Atk": 204,
+                    "SpD": 60
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Spirit Break",
+                    "Reflect",
+                    "Misty Terrain",
+                    "Trick"
+                ]
+            }
+        ],
+        "placement": "8",
+        "winrate": "4-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Kanade's Tainan Regional Top 16 Team (No EVs)",
+        "pokemons": [
+            {
+                "name": "M",
+                "item": "Eviolite",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Tailwind",
+                    "Foul Play",
+                    "Icy Wind",
+                    "Haze"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Scarf",
+                "ability": "Good as Gold",
+                "tera_type": "Flying",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Trick"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Leftovers",
+                "ability": "Flash Fire",
+                "tera_type": "Steel",
+                "moves": [
+                    "Bitter Blade",
+                    "Shadow Sneak",
+                    "Protect",
+                    "Bulk Up"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rotom-Wash",
+                "item": "Sitrus Berry",
+                "ability": "Levitate",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Protect",
+                    "Thunderbolt",
+                    "Hydro Pump",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "F",
+                "item": "Choice Band",
+                "ability": "Protean",
+                "moves": [
+                    "Brick Break",
+                    "Flower Trick",
+                    "U-turn",
+                    "Knock Off"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Clear Amulet",
+                "ability": "Rough Skin",
+                "tera_type": "Ground",
+                "moves": [
+                    "Dragon Claw",
+                    "Earthquake",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "10",
+        "winrate": "5-1"
+    }
+]

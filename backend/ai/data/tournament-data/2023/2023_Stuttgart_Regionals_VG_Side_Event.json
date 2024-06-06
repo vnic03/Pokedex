@@ -1,0 +1,738 @@
+[
+    {
+        "trainer_name": "by Markus Stadter (@13Yoshi37)",
+        "tournament_name": "Stuttgart Regionals VG Side Event Winner",
+        "pokemons": [
+            {
+                "name": "Garchomp",
+                "item": "Clear Amulet",
+                "ability": "Rough Skin",
+                "tera_type": "Fire",
+                "moves": [
+                    "Rock Slide",
+                    "Swords Dance",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold-Four",
+                "item": "Wide Lens",
+                "ability": "Technician",
+                "tera_type": "Normal",
+                "moves": [
+                    "Population Bomb",
+                    "Follow Me",
+                    "Encore",
+                    "Charm"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Murkrow",
+                "item": "Eviolite",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Tailwind",
+                    "Haze",
+                    "Foul Play",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Annihilape",
+                "item": "Choice Scarf",
+                "ability": "Defiant",
+                "tera_type": "Normal",
+                "moves": [
+                    "Brick Break",
+                    "Close Combat",
+                    "Final Gambit",
+                    "Shadow Claw"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Hydreigon",
+                "item": "Life Orb",
+                "ability": "Levitate",
+                "tera_type": "Steel",
+                "moves": [
+                    "Tailwind",
+                    "Flash Cannon",
+                    "Dark Pulse",
+                    "Draco Meteor"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Steel Beam",
+                    "Psyshock"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "1",
+        "winrate": "4-1"
+    },
+    {
+        "trainer_name": "by Constantin Klose (@nnicoiosi)",
+        "tournament_name": "Stuttgart Regionals VG Side Event Runner-up",
+        "pokemons": [
+            {
+                "name": "Kilowattrel",
+                "item": "Life Orb",
+                "ability": "Competitive",
+                "tera_type": "Steel",
+                "moves": [
+                    "Protect",
+                    "Thunder",
+                    "Hurricane",
+                    "Discharge"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Meowscarada",
+                "item": "Focus Sash",
+                "ability": "Overgrow",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Protect",
+                    "Flower Trick",
+                    "Knock Off",
+                    "Grassy Terrain"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Pelipper",
+                "item": "Damp Rock",
+                "ability": "Drizzle",
+                "tera_type": "Ground",
+                "moves": [
+                    "Hurricane",
+                    "Hydro Pump",
+                    "Tailwind",
+                    "Wide Guard"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Wiki Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Rage Powder",
+                    "Spore",
+                    "Clear Smog",
+                    "Giga Drain"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Choice Band",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Flip Turn",
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Close Combat"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Scarf",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "2",
+        "winrate": "4-1"
+    },
+    {
+        "trainer_name": "by Thomas Gravouille (@HariPKMN)",
+        "tournament_name": "Stuttgart Regionals VG Side Event Top 4",
+        "pokemons": [
+            {
+                "name": "Talonflame",
+                "item": "Covert Cloak",
+                "ability": "Gale Wings",
+                "tera_type": "Grass",
+                "moves": [
+                    "Brave Bird",
+                    "Flare Blitz",
+                    "Taunt",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Garchomp",
+                "item": "Clear Amulet",
+                "ability": "Rough Skin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Earthquake",
+                    "Rock Slide",
+                    "Swords Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Sylveon",
+                "item": "Throat Spray",
+                "ability": "Pixilate",
+                "tera_type": "Fire",
+                "moves": [
+                    "Hyper Voice",
+                    "Tera Blast",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gyarados",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Waterfall",
+                    "Tera Blast",
+                    "Dragon Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gengar",
+                "item": "Focus Sash",
+                "ability": "Cursed Body",
+                "tera_type": "Flying",
+                "moves": [
+                    "Sludge Bomb",
+                    "Icy Wind",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Aguav Berry",
+                "ability": "Regenerator",
+                "tera_type": "Fire",
+                "moves": [
+                    "Clear Smog",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "3",
+        "winrate": "4-1"
+    },
+    {
+        "trainer_name": "by Tim Sudermann (@SinisTeaK)",
+        "tournament_name": "Stuttgart Regionals VG Side Event Top 4",
+        "pokemons": [
+            {
+                "name": "Indeedee-F",
+                "item": "Psychic Seed",
+                "ability": "Psychic Surge",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Psychic",
+                    "Trick Room",
+                    "Follow Me",
+                    "Helping Hand"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Armarouge",
+                "item": "Covert Cloak",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Expanding Force",
+                    "Trick Room",
+                    "Heat Wave",
+                    "Energy Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Torkoal",
+                "item": "Charcoal",
+                "ability": "Drought",
+                "tera_type": "Fire",
+                "moves": [
+                    "Eruption",
+                    "Overheat",
+                    "Clear Smog",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Mudsdale",
+                "item": "Choice Band",
+                "ability": "Inner Focus",
+                "tera_type": "Ground",
+                "moves": [
+                    "High Horsepower",
+                    "Heavy Slam",
+                    "Close Combat",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Mimikyu",
+                "item": "Iron Ball",
+                "ability": "Disguise",
+                "tera_type": "Dark",
+                "moves": [
+                    "Play Rough",
+                    "Fling",
+                    "Swords Dance",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Hariyama",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Steel",
+                "moves": [
+                    "Close Combat",
+                    "Heavy Slam",
+                    "Fake Out",
+                    "Wide Guard"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "4",
+        "winrate": "3-2"
+    },
+    {
+        "trainer_name": "by Fevzi \u00c3\u2013zkan (@fevzioe)",
+        "tournament_name": "Stuttgart Regionals VG Side Event Top 8",
+        "pokemons": [
+            {
+                "name": "Garchomp",
+                "item": "Clear Amulet",
+                "ability": "Sand Veil",
+                "tera_type": "Ground",
+                "moves": [
+                    "Dragon Claw",
+                    "Swords Dance",
+                    "Earthquake",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tyranitar",
+                "item": "Lum Berry",
+                "ability": "Sand Stream",
+                "tera_type": "Rock",
+                "moves": [
+                    "Crunch",
+                    "Rock Slide",
+                    "Dragon Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Murkrow",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Icy Wind",
+                    "Haze",
+                    "Tailwind",
+                    "Air Slash"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Assault Vest",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Bulldoze",
+                    "Snarl",
+                    "Extreme Speed"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Meowscarada",
+                "item": "Life Orb",
+                "ability": "Protean",
+                "tera_type": "Dark",
+                "moves": [
+                    "Protect",
+                    "Flower Trick",
+                    "Sucker Punch",
+                    "Knock Off"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Psyshock",
+                    "Dazzling Gleam"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "5",
+        "winrate": "4-1"
+    },
+    {
+        "trainer_name": "by Jannis Hermann",
+        "tournament_name": "Stuttgart Regionals VG Side Event Top 8",
+        "pokemons": [
+            {
+                "name": "Garganacl",
+                "item": "Leftovers",
+                "ability": "Purifying Salt",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Salt Cure",
+                    "Body Press",
+                    "Iron Defense",
+                    "Recover"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Wiki Berry",
+                "ability": "Storm Drain",
+                "tera_type": "Water",
+                "moves": [
+                    "Ice Beam",
+                    "Earth Power",
+                    "Yawn",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Armarouge",
+                "item": "Life Orb",
+                "ability": "Flash Fire",
+                "tera_type": "Fire",
+                "moves": [
+                    "Heat Wave",
+                    "Expanding Force",
+                    "Armor Cannon",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "F",
+                "item": "Psychic Seed",
+                "ability": "Psychic Surge",
+                "tera_type": "Psychic",
+                "moves": [
+                    "Psychic",
+                    "Follow Me",
+                    "Helping Hand",
+                    "Light Screen"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Safety Goggles",
+                "ability": "Inner Focus",
+                "tera_type": "Normal",
+                "moves": [
+                    "Extreme Speed",
+                    "Iron Head",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Meowscarada",
+                "item": "Focus Sash",
+                "ability": "Overgrow",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flower Trick",
+                    "Knock Off",
+                    "U-turn",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "6",
+        "winrate": "3-2"
+    },
+    {
+        "trainer_name": "by Adi Anis (@quatipig)",
+        "tournament_name": "Stuttgart Regionals VG Side Event Top 8",
+        "pokemons": [
+            {
+                "name": "Talonflame",
+                "item": "Covert Cloak",
+                "ability": "Gale Wings",
+                "tera_type": "Normal",
+                "moves": [
+                    "Brave Bird",
+                    "Will-O-Wisp",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Annihilape",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Rage Fist",
+                    "Drain Punch",
+                    "U-turn",
+                    "Ice Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Toxtricity",
+                "item": "Throat Spray",
+                "ability": "Punk Rock",
+                "tera_type": "Normal",
+                "moves": [
+                    "Sludge Bomb",
+                    "Boomburst",
+                    "Overdrive",
+                    "Snarl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Meowscarada",
+                "item": "Choice Band",
+                "ability": "Protean",
+                "tera_type": "Grass",
+                "moves": [
+                    "U-turn",
+                    "Play Rough",
+                    "Flower Trick",
+                    "Shadow Claw"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dudunsparce",
+                "item": "Life Orb",
+                "ability": "Serene Grace",
+                "tera_type": "Normal",
+                "moves": [
+                    "Boomburst",
+                    "Protect",
+                    "Tailwind",
+                    "Shadow Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Indeedee",
+                "item": "Mental Herb",
+                "ability": "Psychic Surge",
+                "tera_type": "Normal",
+                "moves": [
+                    "Protect",
+                    "Dazzling Gleam",
+                    "Trick Room",
+                    "Imprison"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "7",
+        "winrate": "3-2"
+    },
+    {
+        "trainer_name": "by Alexander V. Krol",
+        "tournament_name": "Stuttgart Regionals VG Side Event Top 8",
+        "pokemons": [
+            {
+                "name": "Lilligant",
+                "item": "Focus Sash",
+                "ability": "Chlorophyll",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Sleep Powder",
+                    "After You",
+                    "Leaf Storm",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Oranguru",
+                "item": "Sitrus Berry",
+                "ability": "Inner Focus",
+                "tera_type": "Normal",
+                "moves": [
+                    "Trick Room",
+                    "Taunt",
+                    "Foul Play",
+                    "Instruct"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Torkoal",
+                "item": "Charcoal",
+                "ability": "Drought",
+                "tera_type": "Fire",
+                "moves": [
+                    "Protect",
+                    "Heat Wave",
+                    "Eruption",
+                    "Solar Beam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Hariyama",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Dark",
+                "moves": [
+                    "Heavy Slam",
+                    "Close Combat",
+                    "Fake Out",
+                    "Knock Off"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Annihilape",
+                "item": "Choice Scarf",
+                "ability": "Defiant",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Close Combat",
+                    "Rock Slide",
+                    "Final Gambit",
+                    "Shadow Claw"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Indeedee-F",
+                "item": "Eject Button",
+                "ability": "Psychic Surge",
+                "tera_type": "Normal",
+                "moves": [
+                    "Psychic",
+                    "Healing Wish",
+                    "Helping Hand",
+                    "Follow Me"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "8",
+        "winrate": "3-2"
+    }
+]

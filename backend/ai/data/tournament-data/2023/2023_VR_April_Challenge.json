@@ -1,0 +1,2124 @@
+[
+    {
+        "trainer_name": "by JoeUX9",
+        "tournament_name": "Victory Road (OTS)",
+        "pokemons": [
+            {
+                "name": "Torkoal",
+                "item": "Eject Pack",
+                "ability": "Drought",
+                "tera_type": "Flying",
+                "moves": [
+                    "Overheat",
+                    "Helping Hand",
+                    "Fissure",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Jumpluff",
+                "item": "Covert Cloak",
+                "ability": "Chlorophyll",
+                "tera_type": "Water",
+                "moves": [
+                    "Leaf Storm",
+                    "Sleep Powder",
+                    "Encore",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Choice Scarf",
+                "ability": "Protosynthesis",
+                "tera_type": "Fire",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "moves": [
+                    "Iron Head",
+                    "Kowtow Cleave",
+                    "Sucker Punch",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Thunderbolt",
+                    "Moonblast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Flying",
+                "moves": [
+                    "Ice Spinner",
+                    "Sacred Sword",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "1",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "by Guest 7359546",
+        "tournament_name": "s2 team (OTS)",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Lum Berry",
+                "ability": "Defiant",
+                "tera_type": "Dark",
+                "moves": [
+                    "Protect",
+                    "Kowtow Cleave",
+                    "Sucker Punch",
+                    "Swords Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Protect",
+                    "Dazzling Gleam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Assault Vest",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "moves": [
+                    "Extreme Speed",
+                    "Stomping Tantrum",
+                    "Tera Blast",
+                    "Low Kick"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Protect",
+                    "Flare Blitz",
+                    "Howl",
+                    "Will-O-Wisp"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Drain Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "2",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "Unknown",
+        "tournament_name": "Unknown",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Iapapa Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Safety Goggles",
+                "ability": "Beads of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gyarados",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Poison",
+                "moves": [
+                    "Waterfall",
+                    "Taunt",
+                    "Thunder Wave",
+                    "Whirlpool"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Volt Switch",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Corviknight",
+                "item": "Leftovers",
+                "ability": "Mirror Armor",
+                "tera_type": "Fire",
+                "moves": [
+                    "Brave Bird",
+                    "Iron Head",
+                    "Roost",
+                    "Bulk Up"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "3",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by ColdingLight",
+        "tournament_name": "Sandy ACC 1.1 (OTS)",
+        "pokemons": [
+            {
+                "name": "Lycanroc",
+                "item": "Focus Sash",
+                "ability": "Sand Rush",
+                "tera_type": "Rock",
+                "moves": [
+                    "Rock Slide",
+                    "Protect",
+                    "Howl",
+                    "Endeavor"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tyranitar",
+                "item": "Choice Band",
+                "ability": "Sand Stream",
+                "tera_type": "Flying",
+                "moves": [
+                    "Rock Slide",
+                    "Low Kick",
+                    "Tera Blast",
+                    "Assurance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Indeedee-F",
+                "item": "Safety Goggles",
+                "ability": "Psychic Surge",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Follow Me",
+                    "Trick Room",
+                    "Helping Hand"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Lum Berry",
+                "ability": "Unaware",
+                "tera_type": "Grass",
+                "moves": [
+                    "Wave Crash",
+                    "Rock Slide",
+                    "Tera Blast",
+                    "Rest"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri-Droopy",
+                "item": "Choice Specs",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Muddy Water",
+                    "Draco Meteor",
+                    "Sleep Talk",
+                    "Hydro Pump"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Armarouge",
+                "item": "Life Orb",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Expanding Force",
+                    "Energy Ball",
+                    "Heat Wave",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "4",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Guest 7339376",
+        "tournament_name": "papago (OTS)",
+        "pokemons": [
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Leftovers",
+                "ability": "Good as Gold",
+                "tera_type": "Water",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Haze",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "moves": [
+                    "Tera Blast",
+                    "Extreme Speed",
+                    "Stomping Tantrum",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "5",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "by Robbie35646",
+        "tournament_name": "Copy of Copy of Copy of Copy of Copy of Palance Hands (OTS)",
+        "pokemons": [
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Heavy Slam",
+                    "Ruination",
+                    "Fissure"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Figy Berry",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Safety Goggles",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "moves": [
+                    "Drain Punch",
+                    "Thunder Punch",
+                    "Swords Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "6",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Noguerol_31",
+        "tournament_name": "Untitled 274 (OTS)",
+        "pokemons": [
+            {
+                "name": "Gyarados",
+                "item": "Aguav Berry",
+                "ability": "Intimidate",
+                "tera_type": "Steel",
+                "moves": [
+                    "Taunt",
+                    "Waterfall",
+                    "Thunder Wave",
+                    "Icy Wind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Leftovers",
+                "ability": "Beads of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Dark Pulse",
+                    "Heat Wave",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Safety Goggles",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "moves": [
+                    "Detect",
+                    "Swords Dance",
+                    "Thunder Punch",
+                    "Drain Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Poison",
+                "moves": [
+                    "Rock Tomb",
+                    "Heavy Slam",
+                    "Stomping Tantrum",
+                    "Fissure"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Clear Smog",
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "7",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "Unknown",
+        "tournament_name": "Unknown",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Protect",
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Howl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Substitute"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Baxcalibur",
+                "item": "Clear Amulet",
+                "ability": "Thermal Exchange",
+                "tera_type": "Poison",
+                "moves": [
+                    "Protect",
+                    "Icicle Crash",
+                    "Glaive Rush",
+                    "Ice Shard"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Ruination",
+                    "Stomping Tantrum",
+                    "Payback",
+                    "Heavy Slam"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "8",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Gi1796",
+        "tournament_name": "Untitled 28 (OTS)",
+        "pokemons": [
+            {
+                "name": "Chi-Yu",
+                "item": "Life Orb",
+                "ability": "Beads of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Murkrow",
+                "item": "Eviolite",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Foul Play",
+                    "Tailwind",
+                    "Haze",
+                    "Sunny Day"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Choice Scarf",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Trick"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "9",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "by Artcar \u2764 CT",
+        "tournament_name": "CYHMO (OTS)",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Life Orb",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Focus Sash",
+                "ability": "Beads of Ruin",
+                "tera_type": "Fire",
+                "moves": [
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Overheat",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Flying",
+                "moves": [
+                    "Iron Head",
+                    "Sucker Punch",
+                    "Assurance",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Talonflame",
+                "item": "Safety Goggles",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Brave Bird",
+                    "Will-O-Wisp",
+                    "Sunny Day",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Flying",
+                "moves": [
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "10",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "by Giulio Tarlao",
+        "tournament_name": "Unknown",
+        "pokemons": [
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Ice Spinner",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Extreme Speed",
+                    "Howl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Occa Berry",
+                "ability": "Regenerator",
+                "tera_type": "Electric",
+                "moves": [
+                    "Protect",
+                    "Rage Powder",
+                    "Spore",
+                    "Pollen Puff"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Haze",
+                    "Wave Crash",
+                    "Jet Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "moves": [
+                    "Tera Blast",
+                    "Dragon Dance",
+                    "Stomping Tantrum",
+                    "Extreme Speed"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Annihilape",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "moves": [
+                    "Thunder Punch",
+                    "Drain Punch",
+                    "Rage Fist",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "11",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "by SlushiW",
+        "tournament_name": "p31 (OTS)",
+        "pokemons": [
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Assault Vest",
+                "ability": "Inner Focus",
+                "tera_type": "Flying",
+                "moves": [
+                    "Extreme Speed",
+                    "Facade",
+                    "Tera Blast",
+                    "Low Kick"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Will-O-Wisp",
+                    "Howl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "12",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "Unknown",
+        "tournament_name": "Unknown",
+        "pokemons": [
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Water",
+                "moves": [
+                    "Assurance",
+                    "Sucker Punch",
+                    "Iron Head",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Protect",
+                    "Substitute",
+                    "Shadow Ball",
+                    "Moonblast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Safety Goggles",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "moves": [
+                    "Detect",
+                    "Swords Dance",
+                    "Thunder Punch",
+                    "Drain Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Occa Berry",
+                "ability": "Regenerator",
+                "tera_type": "Steel",
+                "moves": [
+                    "Spore",
+                    "Clear Smog",
+                    "Rage Powder",
+                    "Pollen Puff"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "13",
+        "winrate": "7-1"
+    },
+    {
+        "trainer_name": "by Guest 7337356",
+        "tournament_name": "Hyper Offensive Talonflame (OTS)",
+        "pokemons": [
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Flying",
+                "moves": [
+                    "Iron Head",
+                    "Sucker Punch",
+                    "Assurance",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Focus Sash",
+                "ability": "Beads of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Overheat",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Talonflame",
+                "item": "Sharp Beak",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Sunny Day",
+                    "Brave Bird",
+                    "Will-O-Wisp",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Life Orb",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Close Combat",
+                    "Earthquake",
+                    "Headlong Rush",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "14",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by spectacled eider",
+        "tournament_name": "wing-lu vRoad (OTS)",
+        "pokemons": [
+            {
+                "name": "Farigiraf",
+                "item": "Aguav Berry",
+                "ability": "Armor Tail",
+                "tera_type": "Grass",
+                "moves": [
+                    "Psychic",
+                    "Dazzling Gleam",
+                    "Helping Hand",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Corviknight",
+                "item": "Occa Berry",
+                "ability": "Mirror Armor",
+                "tera_type": "Grass",
+                "moves": [
+                    "Brave Bird",
+                    "Tailwind",
+                    "Taunt",
+                    "Iron Head"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ting-Lu",
+                "item": "Clear Amulet",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Ground",
+                "moves": [
+                    "Earthquake",
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ice",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Normal",
+                "moves": [
+                    "Will-O-Wisp",
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "15",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by orangulo",
+        "tournament_name": "Copy of Londra 1 (OTS)",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Talonflame",
+                "item": "Safety Goggles",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Tailwind",
+                    "Taunt",
+                    "Will-O-Wisp",
+                    "Brave Bird"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Garchomp",
+                "item": "Clear Amulet",
+                "ability": "Rough Skin",
+                "tera_type": "Steel",
+                "moves": [
+                    "Protect",
+                    "Earthquake",
+                    "Swords Dance",
+                    "Dragon Claw"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Clear Smog",
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Flying",
+                "moves": [
+                    "Protect",
+                    "Sucker Punch",
+                    "Ice Spinner",
+                    "Sacred Sword"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Close Combat",
+                    "Fake Out",
+                    "Wild Charge",
+                    "Heavy Slam"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "16",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by cdctdced",
+        "tournament_name": "VR (OTS)",
+        "pokemons": [
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Earthquake",
+                    "Bulldoze",
+                    "Ruination",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Orthworm",
+                "item": "Sitrus Berry",
+                "ability": "Earth Eater",
+                "tera_type": "Fire",
+                "moves": [
+                    "Heavy Slam",
+                    "Body Press",
+                    "Protect",
+                    "Shed Tail"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Hydro Pump",
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "moves": [
+                    "Tera Blast",
+                    "Extreme Speed",
+                    "Dragon Dance",
+                    "Earthquake"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Flying",
+                "moves": [
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Covert Cloak",
+                "ability": "Beads of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flamethrower",
+                    "Dark Pulse",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "17",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by VOVOMAXBEN10",
+        "tournament_name": "Untitled 4 (OTS)",
+        "pokemons": [
+            {
+                "name": "Ting-Lu",
+                "item": "Safety Goggles",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Taunt",
+                    "Ruination",
+                    "Heavy Slam",
+                    "Earthquake"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold",
+                "item": "Wide Lens",
+                "ability": "Technician",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Population Bomb",
+                    "Feint",
+                    "Follow Me",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Azumarill",
+                "item": "Sitrus Berry",
+                "ability": "Huge Power",
+                "tera_type": "Grass",
+                "moves": [
+                    "Play Rough",
+                    "Aqua Jet",
+                    "Belly Drum",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Dark",
+                "moves": [
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Haze",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Clear Amulet",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Wild Charge",
+                    "Extreme Speed",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "18",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by haburasigosi",
+        "tournament_name": "Untitled 1",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "nature": "Serious",
+                "moves": [
+                    "Clear Smog",
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Baxcalibur",
+                "item": "Clear Amulet",
+                "ability": "Thermal Exchange",
+                "tera_type": "Poison",
+                "nature": "Serious",
+                "moves": [
+                    "Ice Shard",
+                    "Glaive Rush",
+                    "Icicle Crash",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "nature": "Serious",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Howl",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Serious",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Palafin-Hero",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "nature": "Serious",
+                "moves": [
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 76,
+                    "Def": 4,
+                    "SpD": 156,
+                    "Spe": 20
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Ruination",
+                    "Stomping Tantrum",
+                    "Heavy Slam",
+                    "Sand Tomb"
+                ]
+            }
+        ],
+        "placement": "19",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Krookorok",
+        "tournament_name": "Copy of Untitled 45 (OTS)",
+        "pokemons": [
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Poison",
+                "moves": [
+                    "Fissure",
+                    "Stomping Tantrum",
+                    "Ruination",
+                    "Heavy Slam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Safety Goggles",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "moves": [
+                    "Drain Punch",
+                    "Thunder Punch",
+                    "Swords Dance",
+                    "Detect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Substitute",
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Figy Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Howl",
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Will-O-Wisp"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Haze",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "20",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Guest 7341773",
+        "tournament_name": "vr baked (OTS)",
+        "pokemons": [
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Overheat",
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gyarados",
+                "item": "Expert Belt",
+                "ability": "Intimidate",
+                "tera_type": "Steel",
+                "moves": [
+                    "Waterfall",
+                    "Iron Head",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Leftovers",
+                "ability": "Good as Gold",
+                "tera_type": "Water",
+                "moves": [
+                    "Make It Rain",
+                    "Thunderbolt",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Baxcalibur",
+                "item": "Clear Amulet",
+                "ability": "Thermal Exchange",
+                "tera_type": "Poison",
+                "moves": [
+                    "Glaive Rush",
+                    "Icicle Crash",
+                    "Ice Shard",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "21",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Guest 7319170",
+        "tournament_name": "Copy of \"Good Artists Copy; Great Artists Steal\" (OTS)",
+        "pokemons": [
+            {
+                "name": "M",
+                "item": "Safety Goggles",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Brave Bird",
+                    "Will-O-Wisp",
+                    "Taunt",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Life Orb",
+                "ability": "Rough Skin",
+                "tera_type": "Fire",
+                "moves": [
+                    "Dragon Claw",
+                    "Stomping Tantrum",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Rage Powder",
+                    "Spore",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Flying",
+                "moves": [
+                    "Iron Head",
+                    "Sucker Punch",
+                    "Assurance",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "22",
+        "winrate": "6-2"
+    },
+    {
+        "trainer_name": "by Guest 7358418",
+        "tournament_name": "Untitled 214 (OTS)",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Baxcalibur",
+                "item": "Clear Amulet",
+                "ability": "Thermal Exchange",
+                "tera_type": "Poison",
+                "moves": [
+                    "Glaive Rush",
+                    "Icicle Crash",
+                    "Ice Shard",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Substitute"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Will-O-Wisp",
+                    "Extreme Speed",
+                    "Howl",
+                    "Flare Blitz"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ting-Lu",
+                "item": "Assault Vest",
+                "ability": "Vessel of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Ruination",
+                    "Heavy Slam",
+                    "Stomping Tantrum",
+                    "Payback"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "23",
+        "winrate": "6-2"
+    }
+]

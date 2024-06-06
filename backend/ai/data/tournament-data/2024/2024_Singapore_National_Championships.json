@@ -1,0 +1,738 @@
+[
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Tan Zhang-Hng Ervin's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Timid",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Wellspring Mask",
+                "ability": "Water Absorb",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Horn Leech",
+                    "Ivy Cudgel",
+                    "Follow Me",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Ghost",
+                "nature": "Timid",
+                "moves": [
+                    "Dark Pulse",
+                    "Heat Wave",
+                    "Overheat",
+                    "Snarl"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu",
+                "item": "Focus Sash",
+                "ability": "Unseen Fist",
+                "tera_type": "Dark",
+                "nature": "Adamant",
+                "moves": [
+                    "Close Combat",
+                    "Wicked Blow",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Thunderclap",
+                    "Electroweb",
+                    "Snarl",
+                    "Dragon Pulse"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Poison",
+                "nature": "Timid",
+                "moves": [
+                    "Earth Power",
+                    "Sludge Bomb",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "1",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Melvin Keh Guan Hui's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "U-turn"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Careful",
+                "moves": [
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Parting Shot",
+                    "Fake Out"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Leftovers",
+                "ability": "Good as Gold",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "nature": "Calm",
+                "moves": [
+                    "Rage Powder",
+                    "Spore",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Ghost",
+                "nature": "Modest",
+                "moves": [
+                    "Earth Power",
+                    "Sludge Bomb",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Thunderclap",
+                    "Electroweb",
+                    "Draco Meteor",
+                    "Snarl"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "2",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Marcus Koh's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Dondozo",
+                "item": "Rocky Helmet",
+                "ability": "Unaware",
+                "tera_type": "Grass",
+                "nature": "Adamant",
+                "moves": [
+                    "Wave Crash",
+                    "Order Up",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "nature": "Timid",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Icy Wind",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Glimmora",
+                "item": "Power Herb",
+                "ability": "Toxic Debris",
+                "tera_type": "Grass",
+                "nature": "Timid",
+                "moves": [
+                    "Meteor Beam",
+                    "Sludge Bomb",
+                    "Mortal Spin",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu",
+                "item": "Choice Band",
+                "ability": "Unseen Fist",
+                "tera_type": "Dark",
+                "nature": "Jolly",
+                "moves": [
+                    "Wicked Blow",
+                    "Close Combat",
+                    "Sucker Punch",
+                    "U-turn"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Life Orb",
+                "ability": "Commander",
+                "tera_type": "Steel",
+                "nature": "Modest",
+                "moves": [
+                    "Dragon Pulse",
+                    "Draco Meteor",
+                    "Muddy Water",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Timid",
+                "moves": [
+                    "Moonblast",
+                    "Icy Wind",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a04",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Zachary Kelly's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Ursaluna",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Ghost",
+                "nature": "Brave",
+                "moves": [
+                    "Facade",
+                    "Headlong Rush",
+                    "Swords Dance",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "U-turn"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "nature": "Impish",
+                "moves": [
+                    "Fake Out",
+                    "Flare Blitz",
+                    "Knock Off",
+                    "Parting Shot"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Porygon2",
+                "item": "Eviolite",
+                "ability": "Download",
+                "tera_type": "Fairy",
+                "nature": "Relaxed",
+                "moves": [
+                    "Tera Blast",
+                    "Ice Beam",
+                    "Trick Room",
+                    "Recover"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "nature": "Relaxed",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Sludge Bomb",
+                    "Protect"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a04",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "LAU SENG TECK, AVESTER's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "F",
+                "item": "Wellspring Mask",
+                "ability": "Water Absorb",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Horn Leech",
+                    "Spiky Shield",
+                    "Follow Me"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Farigiraf",
+                "item": "Throat Spray",
+                "ability": "Armor Tail",
+                "tera_type": "Fairy",
+                "nature": "Quiet",
+                "moves": [
+                    "Hyper Voice",
+                    "Psychic Noise",
+                    "Protect",
+                    "Trick Room"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Careful",
+                "moves": [
+                    "Flare Blitz",
+                    "Knock Off",
+                    "Fake Out",
+                    "Parting Shot"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "nature": "Sassy",
+                "moves": [
+                    "Pollen Puff",
+                    "Clear Smog",
+                    "Rage Powder",
+                    "Spore"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Poison",
+                "nature": "Timid",
+                "moves": [
+                    "Earth Power",
+                    "Substitute",
+                    "Sludge Bomb",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Thunderclap",
+                    "Electroweb",
+                    "Dragon Pulse",
+                    "Snarl"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Lok Jun Yuan Justin's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "nature": "Adamant",
+                "moves": [
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Dragonite",
+                "item": "Choice Band",
+                "ability": "Inner Focus",
+                "tera_type": "Normal",
+                "nature": "Adamant",
+                "moves": [
+                    "Extreme Speed",
+                    "Outrage",
+                    "Aerial Ace",
+                    "Earthquake"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Covert Cloak",
+                "ability": "Defiant",
+                "tera_type": "Grass",
+                "nature": "Jolly",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Superpower",
+                    "Follow Me",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Choice Scarf",
+                "ability": "Commander",
+                "tera_type": "Steel",
+                "nature": "Modest",
+                "moves": [
+                    "Muddy Water",
+                    "Draco Meteor",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Dondozo",
+                "item": "Rocky Helmet",
+                "ability": "Unaware",
+                "tera_type": "Grass",
+                "nature": "Adamant",
+                "moves": [
+                    "Wave Crash",
+                    "Earthquake",
+                    "Order Up",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Glimmora",
+                "item": "Power Herb",
+                "ability": "Toxic Debris",
+                "tera_type": "Fairy",
+                "nature": "Timid",
+                "moves": [
+                    "Meteor Beam",
+                    "Sludge Bomb",
+                    "Mortal Spin",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "xi xiangyu's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Incineroar",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Impish",
+                "moves": [
+                    "Fake Out",
+                    "Knock Off",
+                    "Will-O-Wisp",
+                    "Parting Shot"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Hearthflame Mask",
+                "ability": "Mold Breaker",
+                "tera_type": "Fire",
+                "nature": "Jolly",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Wood Hammer",
+                    "Stomping Tantrum",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Focus Sash",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Fire",
+                "nature": "Adamant",
+                "moves": [
+                    "Fake Out",
+                    "Grassy Glide",
+                    "Wood Hammer",
+                    "U-turn"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Leftovers",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Dragon Pulse",
+                    "Thunderclap",
+                    "Calm Mind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Timid",
+                "moves": [
+                    "Moonblast",
+                    "Taunt",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "SOO WENG HEE's 2024 Singapore National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Raging Bolt",
+                "item": "Leftovers",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Thunderclap",
+                    "Dragon Pulse",
+                    "Calm Mind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Impish",
+                "moves": [
+                    "Knock Off",
+                    "Will-O-Wisp",
+                    "Fake Out",
+                    "Parting Shot"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Ghost",
+                "nature": "Timid",
+                "moves": [
+                    "Moonblast",
+                    "Icy Wind",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Fire",
+                "nature": "Adamant",
+                "moves": [
+                    "Wood Hammer",
+                    "Grassy Glide",
+                    "High Horsepower",
+                    "Fake Out"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Steel",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "Close Combat",
+                    "Detect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Hearthflame Mask",
+                "ability": "Mold Breaker",
+                "tera_type": "Fire",
+                "nature": "Adamant",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Grassy Glide",
+                    "Stomping Tantrum",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    }
+]

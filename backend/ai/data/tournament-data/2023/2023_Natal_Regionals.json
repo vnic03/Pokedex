@@ -1,0 +1,1202 @@
+[
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Gabriel Agati's 2023 Natal Regionals Champion Open Team List, 5-2 Swiss Record, 83 Players, 8-2 Overall Record",
+        "pokemons": [
+            {
+                "name": "M",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Morning Sun",
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Power Gem"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Choice Band",
+                "ability": "Rough Skin",
+                "tera_type": "Fire",
+                "moves": [
+                    "Rock Slide",
+                    "Stomping Tantrum",
+                    "Dragon Claw",
+                    "Earthquake"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "F",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Dark",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Iron Head",
+                    "Low Kick",
+                    "Sucker Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "moves": [
+                    "Protect",
+                    "Tera Blast",
+                    "Low Kick",
+                    "Extreme Speed"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "1",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Juan Salerno's 2023 Natal Regionals Runner Up Open Team List, 6-1 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Fake Out",
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Volt Switch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Leftovers",
+                "ability": "Good as Gold",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Flying",
+                "moves": [
+                    "Protect",
+                    "Tailwind",
+                    "Acrobatics",
+                    "Throat Chop"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Focus Sash",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Protect",
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Encore"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Aguav Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Protect",
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "2",
+        "winrate": "6-1"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Jo\u00e3o Henrique Gon\u00e7alves' 2023 Natal Regionals Top 4 Open Team List, 6-1 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Gholdengo",
+                "item": "Weakness Policy",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold",
+                "item": "Sitrus Berry",
+                "ability": "Friend Guard",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Super Fang",
+                    "Follow Me",
+                    "Baby-Doll Eyes",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Armarouge",
+                "item": "Leftovers",
+                "ability": "Flash Fire",
+                "tera_type": "Normal",
+                "moves": [
+                    "Flamethrower",
+                    "Expanding Force",
+                    "Calm Mind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brute Bonnet",
+                "item": "Loaded Dice",
+                "ability": "Protosynthesis",
+                "tera_type": "Fire",
+                "moves": [
+                    "Bullet Seed",
+                    "Sucker Punch",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Rock Slide",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "3",
+        "winrate": "6-1"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Jefferson Camelo's 2023 Natal Regionals Top 4 Open Team List, 5-2 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Sylveon",
+                "item": "Throat Spray",
+                "ability": "Pixilate",
+                "tera_type": "Water",
+                "moves": [
+                    "Hyper Voice",
+                    "Tera Blast",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold",
+                "item": "Sitrus Berry",
+                "ability": "Friend Guard",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Super Fang",
+                    "Follow Me",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Iron Head",
+                    "Sucker Punch",
+                    "Brick Break"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Dark",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Sandy Shocks",
+                "item": "Life Orb",
+                "ability": "Protosynthesis",
+                "tera_type": "Bug",
+                "moves": [
+                    "Earth Power",
+                    "Thunderbolt",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Flying",
+                "moves": [
+                    "Throat Chop",
+                    "Acrobatics",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "4",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Andr\u00e9 Fumis' 2023 Natal Regionals Top 8 Team, 7-0 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ghost",
+                "evs": {
+                    "HP": 4,
+                    "SpA": 252,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Perish Song",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "F",
+                "item": "Leftovers",
+                "ability": "Shadow Tag",
+                "tera_type": "Steel",
+                "evs": {
+                    "HP": 252,
+                    "Def": 84,
+                    "SpA": 4,
+                    "SpD": 156,
+                    "Spe": 12
+                },
+                "nature": "Calm",
+                "moves": [
+                    "Psychic",
+                    "Fake Out",
+                    "Trick Room",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "F",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "evs": {
+                    "HP": 244,
+                    "Def": 212,
+                    "SpA": 4,
+                    "SpD": 44,
+                    "Spe": 4
+                },
+                "nature": "Calm",
+                "moves": [
+                    "Rage Powder",
+                    "Spore",
+                    "Pollen Puff",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "F",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 220,
+                    "Atk": 252,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 28
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Haze",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "M",
+                "item": "Mago Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 236,
+                    "Atk": 4,
+                    "Def": 4,
+                    "SpD": 68,
+                    "Spe": 196
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Safety Goggles",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 44,
+                    "Atk": 164,
+                    "Def": 4,
+                    "SpD": 252,
+                    "Spe": 44
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Drain Punch",
+                    "Fire Punch",
+                    "Swords Dance",
+                    "Detect"
+                ]
+            }
+        ],
+        "placement": "5",
+        "winrate": "7-0"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Andr\u00e9 Fumis' 2023 Natal Regionals Top 8 Team, 7-0 Swiss Record, 83 Players (OTS)",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Perish Song",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "F",
+                "item": "Leftovers",
+                "ability": "Shadow Tag",
+                "tera_type": "Steel",
+                "moves": [
+                    "Psychic",
+                    "Fake Out",
+                    "Trick Room",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "F",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "moves": [
+                    "Rage Powder",
+                    "Spore",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "F",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Haze",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "M",
+                "item": "Mago Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Safety Goggles",
+                "ability": "Quark Drive",
+                "tera_type": "Fire",
+                "moves": [
+                    "Drain Punch",
+                    "Fire Punch",
+                    "Swords Dance",
+                    "Detect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "5",
+        "winrate": "7-0"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Luciano Begot's 2023 Natal Regionals Top 8 Open Team List, 6-1 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ice",
+                "moves": [
+                    "Encore",
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Trick"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Talonflame",
+                "item": "Covert Cloak",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Brave Bird",
+                    "Tailwind",
+                    "Will-O-Wisp",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri-Droopy",
+                "item": "Choice Scarf",
+                "ability": "Commander",
+                "tera_type": "Dragon",
+                "moves": [
+                    "Draco Meteor",
+                    "Icy Wind",
+                    "Muddy Water",
+                    "Sleep Talk"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dondozo",
+                "item": "Leftovers",
+                "ability": "Unaware",
+                "tera_type": "Steel",
+                "moves": [
+                    "Wave Crash",
+                    "Earthquake",
+                    "Substitute",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Grass",
+                "moves": [
+                    "Close Combat",
+                    "Headlong Rush",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "6",
+        "winrate": "6-1"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Mat\u00edas D\u00edaz's 2023 Natal Regionals Top 8 Open Team List, 5-2 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Close Combat",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Haze",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold",
+                "item": "Safety Goggles",
+                "ability": "Friend Guard",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Super Fang",
+                    "Taunt",
+                    "Follow Me",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Flying",
+                "moves": [
+                    "Acrobatics",
+                    "Jaw Lock",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Leftovers",
+                "ability": "Good as Gold",
+                "tera_type": "Water",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Aguav Berry",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "7",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Tiago Correia's 2023 Natal Regionals Top 8 Team, 5-2 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Tyranitar",
+                "item": "Assault Vest",
+                "ability": "Sand Stream",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 252,
+                    "Spe": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Rock Slide",
+                    "Crunch",
+                    "Low Kick",
+                    "Tera Blast"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "evs": {
+                    "HP": 252,
+                    "Def": 228,
+                    "SpA": 4,
+                    "SpD": 4,
+                    "Spe": 20
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Moonblast",
+                    "Mystical Fire",
+                    "Shadow Ball"
+                ]
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 180,
+                    "Atk": 252,
+                    "Spe": 76
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Protect",
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Haze"
+                ]
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 248,
+                    "Atk": 20,
+                    "SpD": 236
+                },
+                "nature": "Careful",
+                "moves": [
+                    "Will-O-Wisp",
+                    "Snarl",
+                    "Flare Blitz",
+                    "Morning Sun"
+                ]
+            },
+            {
+                "name": "Corviknight",
+                "item": "Leftovers",
+                "ability": "Mirror Armor",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 244,
+                    "Atk": 100,
+                    "Def": 4,
+                    "SpD": 148,
+                    "Spe": 12
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Protect",
+                    "Brave Bird",
+                    "Iron Head",
+                    "Roost"
+                ]
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Covert Cloak",
+                "ability": "Storm Drain",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 252,
+                    "Def": 220,
+                    "SpD": 36
+                },
+                "nature": "Calm",
+                "moves": [
+                    "Recover",
+                    "Earth Power",
+                    "Ice Beam",
+                    "Protect"
+                ]
+            }
+        ],
+        "placement": "8",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Tiago Correia's 2023 Natal Regionals Top 8 Team, 5-2 Swiss Record, 83 Players (OTS)",
+        "pokemons": [
+            {
+                "name": "Tyranitar",
+                "item": "Assault Vest",
+                "ability": "Sand Stream",
+                "tera_type": "Flying",
+                "moves": [
+                    "Rock Slide",
+                    "Crunch",
+                    "Low Kick",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Moonblast",
+                    "Mystical Fire",
+                    "Shadow Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Wave Crash",
+                    "Jet Punch",
+                    "Haze"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Will-O-Wisp",
+                    "Snarl",
+                    "Flare Blitz",
+                    "Morning Sun"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Corviknight",
+                "item": "Leftovers",
+                "ability": "Mirror Armor",
+                "tera_type": "Fire",
+                "moves": [
+                    "Protect",
+                    "Brave Bird",
+                    "Iron Head",
+                    "Roost"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Covert Cloak",
+                "ability": "Storm Drain",
+                "tera_type": "Fire",
+                "moves": [
+                    "Recover",
+                    "Earth Power",
+                    "Ice Beam",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "8",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Luciano Mu\u00f1oz's 2023 Natal Regionals 13th Place Team, 5-2 Swiss Record, 83 Players",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 236,
+                    "Def": 116,
+                    "SpD": 156
+                },
+                "nature": "Sassy",
+                "moves": [
+                    "Pollen Puff",
+                    "Rage Powder",
+                    "Spore",
+                    "Leaf Storm"
+                ]
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 212,
+                    "Def": 36,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Acrobatics",
+                    "Throat Chop",
+                    "Tailwind",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Life Orb",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "evs": {
+                    "HP": 132,
+                    "Def": 4,
+                    "SpA": 132,
+                    "SpD": 20,
+                    "Spe": 220
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 188,
+                    "Atk": 236,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 76
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Haze",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Dark",
+                "evs": {
+                    "HP": 116,
+                    "Atk": 156,
+                    "Def": 12,
+                    "SpD": 4,
+                    "Spe": 220
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 36,
+                    "Atk": 156,
+                    "Def": 12,
+                    "SpD": 188,
+                    "Spe": 116
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Fake Out",
+                    "Volt Switch"
+                ]
+            }
+        ],
+        "placement": "13",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Luciano Mu\u00f1oz's 2023 Natal Regionals 13th Place Team, 5-2 Swiss Record, 83 Players (OTS)",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Rage Powder",
+                    "Spore",
+                    "Leaf Storm"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Flying",
+                "moves": [
+                    "Acrobatics",
+                    "Throat Chop",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Life Orb",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Nasty Plot",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Haze",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Dark",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Fake Out",
+                    "Volt Switch"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "13",
+        "winrate": "5-2"
+    }
+]

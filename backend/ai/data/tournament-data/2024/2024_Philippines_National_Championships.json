@@ -1,0 +1,738 @@
+[
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Paul Oliver Bautista's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "U-turn"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Iron Crown",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Fighting",
+                "nature": "Modest",
+                "moves": [
+                    "Tachyon Cutter",
+                    "Expanding Force",
+                    "Protect",
+                    "Focus Blast"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Dark",
+                "nature": "Modest",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Protect",
+                    "Rain Dance"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Dragonite",
+                "item": "Choice Band",
+                "ability": "Multiscale",
+                "tera_type": "Ground",
+                "nature": "Adamant",
+                "moves": [
+                    "Outrage",
+                    "Extreme Speed",
+                    "Earthquake",
+                    "Aerial Ace"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Adamant",
+                "moves": [
+                    "Flare Blitz",
+                    "Knock Off",
+                    "Taunt",
+                    "Fake Out"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Indeedee-F",
+                "item": "Psychic Seed",
+                "ability": "Psychic Surge",
+                "tera_type": "Fairy",
+                "nature": "Bold",
+                "moves": [
+                    "Follow Me",
+                    "Psychic",
+                    "Trick Room",
+                    "Helping Hand"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "1",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Vincent Macaraig Ignacio's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Arcanine-Hisui",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Adamant",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Head Smash",
+                    "Rock Slide"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Snarl",
+                    "Electroweb",
+                    "Thunderclap",
+                    "Dragon Pulse"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Wellspring Mask",
+                "ability": "Water Absorb",
+                "tera_type": "Water",
+                "nature": "Jolly",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Horn Leech",
+                    "Follow Me",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Ninetales-Alola",
+                "item": "Light Clay",
+                "ability": "Snow Warning",
+                "tera_type": "Fire",
+                "nature": "Timid",
+                "moves": [
+                    "Aurora Veil",
+                    "Blizzard",
+                    "Helping Hand",
+                    "Moonblast"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Articuno",
+                "item": "Choice Specs",
+                "ability": "Snow Cloak",
+                "tera_type": "Ice",
+                "nature": "Modest",
+                "moves": [
+                    "Ice Beam",
+                    "Freeze-Dry",
+                    "Blizzard",
+                    "Sheer Cold"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Poison",
+                "nature": "Timid",
+                "moves": [
+                    "Substitute",
+                    "Sludge Bomb",
+                    "Earth Power",
+                    "Protect"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "2",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Irwin Cristian Soriano's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "nature": "Timid",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Rain Dance",
+                    "Protect",
+                    "Tailwind"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Steel",
+                "nature": "Modest",
+                "moves": [
+                    "Earth Power",
+                    "Sludge Bomb",
+                    "Protect",
+                    "Sandsear Storm"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Assault Vest",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "U-turn",
+                    "Close Combat",
+                    "Aqua Jet"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Impish",
+                "moves": [
+                    "Flare Blitz",
+                    "Knock Off",
+                    "Parting Shot",
+                    "Fake Out"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "nature": "Bold",
+                "moves": [
+                    "Spore",
+                    "Pollen Puff",
+                    "Rage Powder",
+                    "Clear Smog"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "nature": "Modest",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Trick"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a04",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Richard Raphael Isidro Perez's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Grass",
+                "nature": "Adamant",
+                "moves": [
+                    "Icicle Crash",
+                    "Sacred Sword",
+                    "Ice Shard",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Bold",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Draining Kiss",
+                    "Calm Mind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Incineroar",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "nature": "Jolly",
+                "moves": [
+                    "Knock Off",
+                    "Parting Shot",
+                    "Will-O-Wisp",
+                    "Fake Out"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Leftovers",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Dragon Pulse",
+                    "Thunderclap",
+                    "Calm Mind",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Fire",
+                "nature": "Adamant",
+                "moves": [
+                    "Wood Hammer",
+                    "Grassy Glide",
+                    "U-turn",
+                    "Fake Out"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "U-turn"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a04",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Billy Joseph O. Austria's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Iron Crown",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "nature": "Modest",
+                "moves": [
+                    "Expanding Force",
+                    "Tachyon Cutter",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Indeedee-F",
+                "item": "Rocky Helmet",
+                "ability": "Psychic Surge",
+                "tera_type": "Fairy",
+                "nature": "Bold",
+                "moves": [
+                    "Follow Me",
+                    "Helping Hand",
+                    "Dazzling Gleam",
+                    "Trick Room"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "nature": "Timid",
+                "moves": [
+                    "Rain Dance",
+                    "Tailwind",
+                    "Protect",
+                    "Bleakwind Storm"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Regidrago",
+                "item": "Dragon Fang",
+                "ability": "Dragon's Maw",
+                "tera_type": "Steel",
+                "nature": "Modest",
+                "moves": [
+                    "Protect",
+                    "Draco Meteor",
+                    "Earth Power",
+                    "Dragon Energy"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Hearthflame Mask",
+                "ability": "Mold Breaker",
+                "tera_type": "Fire",
+                "nature": "Adamant",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Wood Hammer",
+                    "Follow Me",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "nature": "Adamant",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "U-turn",
+                    "Aqua Jet"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Jasper Alvin T. Dee's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Indeedee-F",
+                "item": "Safety Goggles",
+                "ability": "Psychic Surge",
+                "tera_type": "Dragon",
+                "nature": "Bold",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Follow Me",
+                    "Helping Hand",
+                    "Trick Room"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Lilligant-Hisui",
+                "item": "Focus Sash",
+                "ability": "Chlorophyll",
+                "tera_type": "Ghost",
+                "nature": "Adamant",
+                "moves": [
+                    "Solar Blade",
+                    "Sleep Powder",
+                    "After You",
+                    "Close Combat"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Gallade",
+                "item": "Clear Amulet",
+                "ability": "Sharpness",
+                "tera_type": "Steel",
+                "nature": "Brave",
+                "moves": [
+                    "Psycho Cut",
+                    "Sacred Sword",
+                    "Trick Room",
+                    "Wide Guard"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Torkoal",
+                "item": "Charcoal",
+                "ability": "Drought",
+                "tera_type": "Fire",
+                "nature": "Quiet",
+                "moves": [
+                    "Heat Wave",
+                    "Protect",
+                    "Eruption",
+                    "Fissure"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Life Orb",
+                "ability": "Magic Bounce",
+                "tera_type": "Psychic",
+                "nature": "Quiet",
+                "moves": [
+                    "Protect",
+                    "Dazzling Gleam",
+                    "Trick Room",
+                    "Expanding Force"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Ursaluna",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Ghost",
+                "nature": "Brave",
+                "moves": [
+                    "Headlong Rush",
+                    "Protect",
+                    "Shadow Claw",
+                    "Facade"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Patrick Jan L. Cabangin's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Steel",
+                "nature": "Timid",
+                "moves": [
+                    "Earth Power",
+                    "Sludge Bomb",
+                    "Protect",
+                    "Sandsear Storm"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Wellspring Mask",
+                "ability": "Water Absorb",
+                "tera_type": "Water",
+                "nature": "Jolly",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Wood Hammer",
+                    "Follow Me",
+                    "Spiky Shield"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Ghost",
+                "nature": "Bold",
+                "moves": [
+                    "Dark Pulse",
+                    "Heat Wave",
+                    "Overheat",
+                    "Snarl"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Timid",
+                "moves": [
+                    "Icy Wind",
+                    "Moonblast",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Steel",
+                "nature": "Timid",
+                "moves": [
+                    "Taunt",
+                    "Tailwind",
+                    "Sunny Day",
+                    "Bleakwind Storm"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Urshifu",
+                "item": "Focus Sash",
+                "ability": "Unseen Fist",
+                "tera_type": "Dark",
+                "nature": "Adamant",
+                "moves": [
+                    "Sucker Punch",
+                    "Wicked Blow",
+                    "Close Combat",
+                    "Detect"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    },
+    {
+        "trainer_name": "by Victory Road",
+        "tournament_name": "Vince Arellano Pacleb's 2024 Philippines National Championships Open Team List (including Nature)",
+        "pokemons": [
+            {
+                "name": "Landorus",
+                "item": "Life Orb",
+                "ability": "Sheer Force",
+                "tera_type": "Steel",
+                "nature": "Timid",
+                "moves": [
+                    "Earth Power",
+                    "Substitute",
+                    "Sludge Bomb",
+                    "Protect"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "F",
+                "item": "Wellspring Mask",
+                "ability": "Water Absorb",
+                "tera_type": "Water",
+                "nature": "Jolly",
+                "moves": [
+                    "Ivy Cudgel",
+                    "Horn Leech",
+                    "Spiky Shield",
+                    "Follow Me"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Arcanine-Hisui",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Ghost",
+                "nature": "Adamant",
+                "moves": [
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Rock Slide",
+                    "Head Smash"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Articuno",
+                "item": "Choice Specs",
+                "ability": "Snow Cloak",
+                "tera_type": "Ice",
+                "nature": "Modest",
+                "moves": [
+                    "Freeze-Dry",
+                    "Sheer Cold",
+                    "Blizzard",
+                    "Ice Beam"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Raging Bolt",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "nature": "Modest",
+                "moves": [
+                    "Thunderclap",
+                    "Draco Meteor",
+                    "Electroweb",
+                    "Snarl"
+                ],
+                "evs": {}
+            },
+            {
+                "name": "Ninetales-Alola",
+                "item": "Light Clay",
+                "ability": "Snow Warning",
+                "tera_type": "Fire",
+                "nature": "Timid",
+                "moves": [
+                    "Blizzard",
+                    "Aurora Veil",
+                    "Helping Hand",
+                    "Moonblast"
+                ],
+                "evs": {}
+            }
+        ],
+        "placement": "Top\u00a08",
+        "winrate": ""
+    }
+]

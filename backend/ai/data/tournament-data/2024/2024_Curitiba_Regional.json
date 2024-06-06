@@ -1,0 +1,3682 @@
+[
+    {
+        "trainer_name": "by Y$Lena",
+        "tournament_name": "Vancouver",
+        "pokemons": [
+            {
+                "name": "Lilligant",
+                "item": "Focus Sash",
+                "ability": "Chlorophyll",
+                "tera_type": "Ghost",
+                "evs": {
+                    "HP": 4,
+                    "SpA": 252,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Sleep Powder",
+                    "Leaf Storm",
+                    "After You",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Torkoal",
+                "item": "Charcoal",
+                "ability": "Drought",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 252,
+                    "SpA": 252,
+                    "SpD": 4
+                },
+                "nature": "Quiet",
+                "moves": [
+                    "Eruption",
+                    "Flamethrower",
+                    "Earth Power",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "evs": {
+                    "HP": 20,
+                    "Def": 84,
+                    "SpA": 196,
+                    "SpD": 4,
+                    "Spe": 204
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Power Gem"
+                ]
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "evs": {
+                    "HP": 252,
+                    "Atk": 196,
+                    "Def": 4,
+                    "SpD": 52,
+                    "Spe": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Sucker Punch",
+                    "Iron Head",
+                    "Tera Blast"
+                ]
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 180,
+                    "Atk": 252,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 68
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Tera Blast",
+                    "Ice Spinner",
+                    "Extreme Speed",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Choice Scarf",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "evs": {
+                    "Atk": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Headlong Rush",
+                    "Earthquake",
+                    "Close Combat",
+                    "Rock Slide"
+                ]
+            }
+        ],
+        "placement": "1",
+        "winrate": "12-2"
+    },
+    {
+        "trainer_name": "by SableyeVGC",
+        "tournament_name": "Nine Nine!",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 84,
+                    "Def": 100,
+                    "SpA": 116,
+                    "SpD": 4,
+                    "Spe": 204
+                },
+                "nature": "Modest",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Energy Ball"
+                ]
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 220,
+                    "Atk": 220,
+                    "Def": 4,
+                    "SpD": 60,
+                    "Spe": 4
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Iron Head",
+                    "Assurance",
+                    "Low Kick",
+                    "Sucker Punch"
+                ]
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "evs": {
+                    "SpA": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Arcanine",
+                "item": "Sitrus Berry",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 116,
+                    "Atk": 44,
+                    "Def": 44,
+                    "SpD": 108,
+                    "Spe": 196
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Flare Blitz",
+                    "Snarl",
+                    "Will-O-Wisp",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "evs": {
+                    "HP": 4,
+                    "Atk": 252,
+                    "Spe": 252
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Corviknight",
+                "item": "Safety Goggles",
+                "ability": "Mirror Armor",
+                "tera_type": "Dragon",
+                "evs": {
+                    "HP": 148,
+                    "Atk": 108,
+                    "Def": 124,
+                    "SpD": 68,
+                    "Spe": 60
+                },
+                "nature": "Careful",
+                "moves": [
+                    "Brave Bird",
+                    "Bulk Up",
+                    "Roost",
+                    "Tailwind"
+                ]
+            }
+        ],
+        "placement": "2",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Dylan Salvanera's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Sandy Shocks",
+                "item": "Assault Vest",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Thunderbolt",
+                    "Volt Switch",
+                    "Earth Power",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "moves": [
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Focus Sash",
+                "ability": "Quark Drive",
+                "tera_type": "Ice",
+                "moves": [
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Hydro Pump",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tauros-Paldea-Blaze",
+                "item": "Mirror Herb",
+                "ability": "Intimidate",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flare Blitz",
+                    "Close Combat",
+                    "Will-O-Wisp",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Breaking Swipe",
+                    "Throat Chop",
+                    "Tailwind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Baxcalibur",
+                "item": "Dragon Fang",
+                "ability": "Thermal Exchange",
+                "tera_type": "Poison",
+                "moves": [
+                    "Icicle Crash",
+                    "Glaive Rush",
+                    "Ice Shard",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "3",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Aaron Zheng's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Baxcalibur",
+                "item": "Assault Vest",
+                "ability": "Thermal Exchange",
+                "tera_type": "Ground",
+                "moves": [
+                    "Glaive Rush",
+                    "Icicle Crash",
+                    "Earthquake",
+                    "Ice Shard"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Icy Wind",
+                    "Freeze-Dry",
+                    "Encore",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brute Bonnet",
+                "item": "Loaded Dice",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Bullet Seed",
+                    "Crunch",
+                    "Spore",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Power Gem"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Ice Spinner",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Talonflame",
+                "item": "Safety Goggles",
+                "ability": "Gale Wings",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Brave Bird",
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "4",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Zackary Thornberg's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Ceruledge",
+                "item": "Assault Vest",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Bitter Blade",
+                    "Tera Blast",
+                    "Shadow Sneak",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Sylveon",
+                "item": "Sitrus Berry",
+                "ability": "Pixilate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Hyper Voice",
+                    "Psych Up",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Focus Sash",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Draco Meteor",
+                    "Taunt",
+                    "Muddy Water",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dondozo",
+                "item": "Leftovers",
+                "ability": "Unaware",
+                "tera_type": "Steel",
+                "moves": [
+                    "Order Up",
+                    "Substitute",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Glimmora",
+                "item": "Passho Berry",
+                "ability": "Toxic Debris",
+                "tera_type": "Dark",
+                "moves": [
+                    "Power Gem",
+                    "Mortal Spin",
+                    "Earth Power",
+                    "Spiky Shield"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "moves": [
+                    "Moonblast",
+                    "Perish Song",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "5",
+        "winrate": "12-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Neil Patel's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Dondozo",
+                "item": "Leftovers",
+                "ability": "Unaware",
+                "tera_type": "Grass",
+                "moves": [
+                    "Wave Crash",
+                    "Earthquake",
+                    "Protect",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Glimmora",
+                "item": "Assault Vest",
+                "ability": "Toxic Debris",
+                "tera_type": "Grass",
+                "moves": [
+                    "Power Gem",
+                    "Sludge Bomb",
+                    "Mortal Spin",
+                    "Earth Power"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Choice Scarf",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Muddy Water",
+                    "Icy Wind",
+                    "Draco Meteor",
+                    "Sleep Talk"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Hydro Pump",
+                    "Freeze-Dry",
+                    "Icy Wind",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "moves": [
+                    "Headlong Rush",
+                    "Earthquake",
+                    "Close Combat",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Lum Berry",
+                "ability": "Multiscale",
+                "tera_type": "Normal",
+                "moves": [
+                    "Outrage",
+                    "Ice Spinner",
+                    "Extreme Speed",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "6",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Gavin Michaels's 2023 Vancouver Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Volcarona",
+                "item": "Leftovers",
+                "ability": "Flame Body",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flamethrower",
+                    "Giga Drain",
+                    "Quiver Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Azumarill",
+                "item": "Choice Band",
+                "ability": "Huge Power",
+                "tera_type": "Water",
+                "moves": [
+                    "Aqua Jet",
+                    "Liquidation",
+                    "Play Rough",
+                    "Ice Spinner"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Mimikyu",
+                "item": "Mental Herb",
+                "ability": "Disguise",
+                "tera_type": "Steel",
+                "moves": [
+                    "Shadow Claw",
+                    "Will-O-Wisp",
+                    "Taunt",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Fake Out",
+                    "Close Combat",
+                    "Wild Charge",
+                    "Volt Switch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Pelipper",
+                "item": "Focus Sash",
+                "ability": "Drizzle",
+                "tera_type": "Flying",
+                "moves": [
+                    "Hurricane",
+                    "Hydro Pump",
+                    "Wide Guard",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brute Bonnet",
+                "item": "Sitrus Berry",
+                "ability": "Protosynthesis",
+                "tera_type": "Poison",
+                "moves": [
+                    "Spore",
+                    "Seed Bomb",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "7",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by Guest 7492191",
+        "tournament_name": "P4r4d0x",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "evs": {
+                    "HP": 244,
+                    "Def": 108,
+                    "SpD": 156
+                },
+                "nature": "Sassy",
+                "moves": [
+                    "Leaf Storm",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Great Tusk",
+                "item": "Life Orb",
+                "ability": "Protosynthesis",
+                "tera_type": "Ground",
+                "evs": {
+                    "Atk": 252,
+                    "SpD": 4,
+                    "Spe": 252
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Headlong Rush",
+                    "Close Combat",
+                    "Earthquake",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "evs": {
+                    "HP": 252,
+                    "Def": 44,
+                    "SpA": 132,
+                    "SpD": 12,
+                    "Spe": 68
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Thunderbolt"
+                ]
+            },
+            {
+                "name": "Iron Bundle",
+                "item": "Booster Energy",
+                "ability": "Quark Drive",
+                "tera_type": "Ice",
+                "evs": {
+                    "HP": 4,
+                    "SpA": 252,
+                    "Spe": 252
+                },
+                "nature": "Timid",
+                "moves": [
+                    "Freeze-Dry",
+                    "Hydro Pump",
+                    "Icy Wind",
+                    "Protect"
+                ]
+            },
+            {
+                "name": "Tyranitar",
+                "item": "Assault Vest",
+                "ability": "Sand Stream",
+                "tera_type": "Flying",
+                "evs": {
+                    "HP": 124,
+                    "Atk": 204,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 172
+                },
+                "nature": "Adamant",
+                "moves": [
+                    "Rock Slide",
+                    "Crunch",
+                    "Low Kick",
+                    "Tera Blast"
+                ]
+            },
+            {
+                "name": "Talonflame",
+                "item": "Covert Cloak",
+                "ability": "Gale Wings",
+                "tera_type": "Grass",
+                "evs": {
+                    "HP": 172,
+                    "Atk": 116,
+                    "Def": 4,
+                    "SpD": 4,
+                    "Spe": 212
+                },
+                "nature": "Jolly",
+                "moves": [
+                    "Brave Bird",
+                    "Will-O-Wisp",
+                    "Taunt",
+                    "Tailwind"
+                ]
+            }
+        ],
+        "placement": "8",
+        "winrate": "11-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Nader El bacha's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Tatsugiri",
+                "item": "Choice Scarf",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Draco Meteor",
+                    "Muddy Water",
+                    "Icy Wind",
+                    "Sleep Talk"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Rocky Helmet",
+                "ability": "Prankster",
+                "tera_type": "Dark",
+                "moves": [
+                    "Tailwind",
+                    "Air Slash",
+                    "Icy Wind",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Overheat",
+                    "Dark Pulse",
+                    "Heat Wave",
+                    "Snarl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dondozo",
+                "item": "Leftovers",
+                "ability": "Unaware",
+                "tera_type": "Grass",
+                "moves": [
+                    "Wave Crash",
+                    "Order Up",
+                    "Protect",
+                    "Earthquake"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Protect",
+                    "Dazzling Gleam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Glimmora",
+                "item": "Assault Vest",
+                "ability": "Toxic Debris",
+                "tera_type": "Grass",
+                "moves": [
+                    "Mortal Spin",
+                    "Earth Power",
+                    "Power Gem",
+                    "Energy Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "1",
+        "winrate": "7-0"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Diego Gutierrez's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Landorus-Therian",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Rock Tomb",
+                    "U-turn",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Fake Out",
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Heavy Slam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Sitrus Berry",
+                "ability": "Storm Drain",
+                "tera_type": "Poison",
+                "moves": [
+                    "Earth Power",
+                    "Icy Wind",
+                    "Yawn",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Heatran",
+                "item": "Leftovers",
+                "ability": "Flash Fire",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Magma Storm",
+                    "Flash Cannon",
+                    "Earth Power",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Dark",
+                "moves": [
+                    "Icicle Crash",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "4",
+        "winrate": "6-1"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Renzo Navarro's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Wild Charge",
+                    "Drain Punch",
+                    "Heavy Slam",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Icy Wind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Aguav Berry",
+                "ability": "Grassy Surge",
+                "tera_type": "Fire",
+                "moves": [
+                    "Wood Hammer",
+                    "U-turn",
+                    "Fake Out",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Sitrus Berry",
+                "ability": "Storm Drain",
+                "tera_type": "Poison",
+                "moves": [
+                    "Earth Power",
+                    "Icy Wind",
+                    "Yawn",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Heatran",
+                "item": "Safety Goggles",
+                "ability": "Flash Fire",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Magma Storm",
+                    "Earth Power",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "Tera Blast",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "5",
+        "winrate": "6-1"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Thiago Lattanzi's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Gastrodon",
+                "item": "Sitrus Berry",
+                "ability": "Storm Drain",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Earth Power",
+                    "Ice Beam",
+                    "Yawn",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Grassy Seed",
+                "ability": "Grassy Surge",
+                "tera_type": "Fire",
+                "moves": [
+                    "Wood Hammer",
+                    "Fake Out",
+                    "Stomping Tantrum",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dragonite",
+                "item": "Life Orb",
+                "ability": "Inner Focus",
+                "tera_type": "Normal",
+                "moves": [
+                    "Extreme Speed",
+                    "Aerial Ace",
+                    "Aqua Jet",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Safety Goggles",
+                "ability": "Defiant",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Tera Blast",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Heatran",
+                "item": "Assault Vest",
+                "ability": "Flash Fire",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Heat Wave",
+                    "Earth Power",
+                    "Flash Cannon",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "6",
+        "winrate": "6-1"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "David Assato's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Torkoal",
+                "item": "Weakness Policy",
+                "ability": "Drought",
+                "tera_type": "Fire",
+                "moves": [
+                    "Eruption",
+                    "Earth Power",
+                    "Protect",
+                    "Heat Wave"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu",
+                "item": "Life Orb",
+                "ability": "Unseen Fist",
+                "tera_type": "Dark",
+                "moves": [
+                    "Wicked Blow",
+                    "Sucker Punch",
+                    "Close Combat",
+                    "Detect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold-Four",
+                "item": "Wide Lens",
+                "ability": "Technician",
+                "tera_type": "Normal",
+                "moves": [
+                    "Population Bomb",
+                    "Follow Me",
+                    "Taunt",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Cresselia",
+                "item": "Safety Goggles",
+                "ability": "Levitate",
+                "tera_type": "Poison",
+                "moves": [
+                    "Moonblast",
+                    "Trick Room",
+                    "Lunar Blessing",
+                    "Helping Hand"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Bruxish",
+                "item": "Focus Sash",
+                "ability": "Dazzling",
+                "tera_type": "Grass",
+                "moves": [
+                    "Psychic Fangs",
+                    "Aqua Jet",
+                    "Trick Room",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ursaluna",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Facade",
+                    "Headlong Rush",
+                    "Earthquake",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "7",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Paul Ruiz's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Rage Powder",
+                    "Spore",
+                    "Pollen Puff",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Crunch",
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "U-turn",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Heavy Slam",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Volcarona",
+                "item": "Leftovers",
+                "ability": "Flame Body",
+                "tera_type": "Grass",
+                "moves": [
+                    "Flamethrower",
+                    "Giga Drain",
+                    "Quiver Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gothitelle",
+                "item": "Sitrus Berry",
+                "ability": "Shadow Tag",
+                "tera_type": "Dark",
+                "moves": [
+                    "Psychic",
+                    "Taunt",
+                    "Trick Room",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "8",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Pedro Henrique Rubini Cini's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Fire",
+                "moves": [
+                    "Heat Wave",
+                    "Flamethrower",
+                    "Dark Pulse",
+                    "Snarl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tatsugiri",
+                "item": "Sitrus Berry",
+                "ability": "Commander",
+                "tera_type": "Water",
+                "moves": [
+                    "Muddy Water",
+                    "Draco Meteor",
+                    "Counter",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Dondozo",
+                "item": "Rocky Helmet",
+                "ability": "Oblivious",
+                "tera_type": "Flying",
+                "moves": [
+                    "Wave Crash",
+                    "Earthquake",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Scarf",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Trick"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Heavy Slam",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "9",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Breno Silva's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Ice Spinner",
+                    "Protect",
+                    "Sucker Punch",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Grass",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Energy Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Wild Charge",
+                    "Drain Punch",
+                    "Heavy Slam",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Detect",
+                    "Close Combat",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Tailwind",
+                    "Bleakwind Storm",
+                    "Taunt",
+                    "Rain Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "10",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Victor Rachik's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Water",
+                "moves": [
+                    "U-turn",
+                    "Wood Hammer",
+                    "Stomping Tantrum",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Grass",
+                "moves": [
+                    "Protect",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Misty Terrain"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Clear Amulet",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Protect",
+                    "Stomping Tantrum",
+                    "Tera Blast",
+                    "Earthquake"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Steel",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Rain Dance",
+                    "Taunt",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Safety Goggles",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Detect",
+                    "Surging Strikes",
+                    "Swords Dance",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Protect",
+                    "Ice Spinner",
+                    "Sucker Punch",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "11",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "J\u00falio Eller's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Tera Blast",
+                    "Heat Wave",
+                    "Snarl",
+                    "Overheat"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Fake Out",
+                    "Drain Punch",
+                    "Heavy Slam",
+                    "Wild Charge"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Grass Knot",
+                    "Rage Powder",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Scary Face",
+                    "Sunny Day",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "Earthquake",
+                    "U-turn",
+                    "Stomping Tantrum",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "12",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "joaquin salerno's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Trick",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brambleghast",
+                "item": "Focus Sash",
+                "ability": "Wind Rider",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Power Whip",
+                    "Shadow Sneak",
+                    "Tera Blast",
+                    "Strength Sap"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Protect",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Life Orb",
+                "ability": "Beads of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Protect",
+                    "Overheat"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Water",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Scary Face",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "13",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Leonardo Ritter's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Heatran",
+                "item": "Safety Goggles",
+                "ability": "Flash Fire",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Earth Power",
+                    "Flash Cannon",
+                    "Protect",
+                    "Flamethrower"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Stomping Tantrum",
+                    "U-turn",
+                    "Tera Blast",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Rocky Helmet",
+                "ability": "Storm Drain",
+                "tera_type": "Fire",
+                "moves": [
+                    "Yawn",
+                    "Protect",
+                    "Earth Power",
+                    "Ice Beam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "moves": [
+                    "Low Kick",
+                    "Sucker Punch",
+                    "Kowtow Cleave",
+                    "Iron Head"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Rage Powder",
+                    "Protect",
+                    "Spore"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Thunderbolt",
+                    "Moonblast"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "14",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Guilherme de Oliveira Queiroz's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Tornadus",
+                "item": "Mental Herb",
+                "ability": "Prankster",
+                "tera_type": "Dark",
+                "moves": [
+                    "Sunny Day",
+                    "Tailwind",
+                    "Rain Dance",
+                    "Bleakwind Storm"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Trick",
+                    "Thunderbolt",
+                    "Shadow Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Pollen Puff",
+                    "Leaf Storm",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Misty Terrain",
+                    "Dazzling Gleam",
+                    "Protect",
+                    "Shadow Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Assault Vest",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "Earthquake",
+                    "U-turn",
+                    "Stomping Tantrum",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Aqua Jet",
+                    "Close Combat",
+                    "U-turn",
+                    "Surging Strikes"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "15",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Gabriel Agati's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Pollen Puff",
+                    "Leaf Storm",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "U-turn",
+                    "Earthquake",
+                    "Rock Slide",
+                    "Stomping Tantrum"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Detect",
+                    "Surging Strikes",
+                    "Substitute",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Water",
+                "moves": [
+                    "Heat Wave",
+                    "Dark Pulse",
+                    "Overheat",
+                    "Snarl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Wild Charge",
+                    "Drain Punch",
+                    "Heavy Slam",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Taunt",
+                    "Tailwind",
+                    "Scary Face"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "16",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Telmo Alves Lima Junior's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Goodra-Hisui",
+                "item": "Leftovers",
+                "ability": "Shell Armor",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Life Dew",
+                    "Shelter",
+                    "Body Press",
+                    "Heavy Slam"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Icy Wind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Protect",
+                    "Taunt",
+                    "Sucker Punch",
+                    "Icicle Crash"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "Will-O-Wisp",
+                    "Flare Blitz",
+                    "Snarl",
+                    "Morning Sun"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "Close Combat",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Pollen Puff",
+                    "Clear Smog"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "17",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Carlos J\u00fanior's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Heatran",
+                "item": "Safety Goggles",
+                "ability": "Flash Fire",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Heat Wave",
+                    "Earth Power",
+                    "Flash Cannon",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Assault Vest",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Tera Blast",
+                    "Rock Slide",
+                    "Stomping Tantrum",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Surging Strikes",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Protect",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Water",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Taunt",
+                    "Rain Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Energy Ball",
+                    "Dazzling Gleam",
+                    "Shadow Ball"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "18",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "juan salerno's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Gastrodon",
+                "item": "Leftovers",
+                "ability": "Storm Drain",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Ice Beam",
+                    "Earth Power",
+                    "Protect",
+                    "Yawn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Cresselia",
+                "item": "Safety Goggles",
+                "ability": "Levitate",
+                "tera_type": "Electric",
+                "moves": [
+                    "Lunar Blessing",
+                    "Psychic",
+                    "Ice Beam",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Wild Charge",
+                    "Drain Punch",
+                    "Heavy Slam",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "Tera Blast",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu",
+                "item": "Focus Sash",
+                "ability": "Unseen Fist",
+                "tera_type": "Dark",
+                "moves": [
+                    "Wicked Blow",
+                    "Close Combat",
+                    "Sucker Punch",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine-Hisui",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Flare Blitz",
+                    "Rock Slide",
+                    "Tera Blast",
+                    "Extreme Speed"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "19",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Raul Gioielli's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chi-Yu",
+                "item": "Choice Specs",
+                "ability": "Beads of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Heat Wave",
+                    "Overheat",
+                    "Snarl",
+                    "Dark Pulse"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Taunt",
+                    "Sunny Day",
+                    "Tailwind",
+                    "Bleakwind Storm"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Icy Wind",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Water",
+                "moves": [
+                    "Heavy Slam",
+                    "Fake Out",
+                    "Drain Punch",
+                    "Wild Charge"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Spore",
+                    "Rage Powder",
+                    "Protect",
+                    "Pollen Puff"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "20",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "cristhian andrade's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Detect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Moonblast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Wild Charge",
+                    "Fake Out",
+                    "Ice Punch",
+                    "Drain Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Rock Slide",
+                    "Tera Blast",
+                    "Stomping Tantrum",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brambleghast",
+                "item": "Rocky Helmet",
+                "ability": "Wind Rider",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Power Whip",
+                    "Protect",
+                    "Shadow Sneak",
+                    "Strength Sap"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Sitrus Berry",
+                "ability": "Prankster",
+                "tera_type": "Water",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Rain Dance",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "21",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Orlando Gomes Mariano's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Tera Blast",
+                    "Rock Slide",
+                    "U-turn",
+                    "Stomping Tantrum"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Life Orb",
+                "ability": "Good as Gold",
+                "tera_type": "Water",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Mental Herb",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Taunt",
+                    "Tailwind",
+                    "Rain Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Regidrago",
+                "item": "Dragon Fang",
+                "ability": "Dragon's Maw",
+                "tera_type": "Steel",
+                "moves": [
+                    "Dragon Energy",
+                    "Dragon Pulse",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "Close Combat",
+                    "Detect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Indeedee-F",
+                "item": "Psychic Seed",
+                "ability": "Psychic Surge",
+                "tera_type": "Water",
+                "moves": [
+                    "Psychic",
+                    "Follow Me",
+                    "Trick Room",
+                    "Helping Hand"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "22",
+        "winrate": "5-2"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Tom\u00e1s Da Cruz's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Chien-Pao",
+                "item": "Life Orb",
+                "ability": "Sword of Ruin",
+                "tera_type": "Poison",
+                "moves": [
+                    "Protect",
+                    "Icicle Crash",
+                    "Sucker Punch",
+                    "Sacred Sword"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine-Hisui",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Normal",
+                "moves": [
+                    "Rock Slide",
+                    "Flare Blitz",
+                    "Extreme Speed",
+                    "Head Smash"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Detect",
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Water",
+                "moves": [
+                    "Fake Out",
+                    "Wood Hammer",
+                    "Stomping Tantrum",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Rocky Helmet",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Tailwind",
+                    "Bleakwind Storm",
+                    "Rain Dance",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "23",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Jorge de Souza Junior's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "Earthquake",
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Focus Sash",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Detect",
+                    "Surging Strikes"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Brute Bonnet",
+                "item": "Sitrus Berry",
+                "ability": "Protosynthesis",
+                "tera_type": "Poison",
+                "moves": [
+                    "Sucker Punch",
+                    "Spore",
+                    "Rage Powder",
+                    "Seed Bomb"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Covert Cloak",
+                "ability": "Prankster",
+                "tera_type": "Steel",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Taunt",
+                    "Rain Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Goodra-Hisui",
+                "item": "Assault Vest",
+                "ability": "Sap Sipper",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Ice Beam",
+                    "Tera Blast",
+                    "Flash Cannon",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Flying",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Tera Blast",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "24",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Dorian Qui\u00f1onez's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Tera Blast",
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Heatran",
+                "item": "Safety Goggles",
+                "ability": "Flash Fire",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Flamethrower",
+                    "Earth Power",
+                    "Tera Blast",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gastrodon",
+                "item": "Sitrus Berry",
+                "ability": "Storm Drain",
+                "tera_type": "Poison",
+                "moves": [
+                    "Earth Power",
+                    "Protect",
+                    "Ice Beam",
+                    "Yawn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Kingambit",
+                "item": "Assault Vest",
+                "ability": "Defiant",
+                "tera_type": "Fire",
+                "moves": [
+                    "Kowtow Cleave",
+                    "Brick Break",
+                    "Iron Head",
+                    "Sucker Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Figy Berry",
+                "ability": "Grassy Surge",
+                "tera_type": "Water",
+                "moves": [
+                    "Wood Hammer",
+                    "U-turn",
+                    "Taunt",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "25",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Hugo Nascimento Vilela dos Santos's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Wood Hammer",
+                    "Fake Out",
+                    "Stomping Tantrum",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine-Hisui",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Normal",
+                "moves": [
+                    "Rock Slide",
+                    "Extreme Speed",
+                    "Flare Blitz",
+                    "Head Smash"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Icicle Crash",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Grass",
+                "moves": [
+                    "Moonblast",
+                    "Dazzling Gleam",
+                    "Shadow Ball",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Mental Herb",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Mystic Water",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "Close Combat",
+                    "Detect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "26",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "javier ramirez's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Tornadus",
+                "item": "Mental Herb",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Taunt",
+                    "Rain Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Leftovers",
+                "ability": "Good as Gold",
+                "tera_type": "Water",
+                "moves": [
+                    "Shadow Ball",
+                    "Protect",
+                    "Make It Rain",
+                    "Nasty Plot"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "Close Combat",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Fire",
+                "moves": [
+                    "Wood Hammer",
+                    "Knock Off",
+                    "Fake Out",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Clear Amulet",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Tera Blast",
+                    "U-turn",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Icicle Crash",
+                    "Protect",
+                    "Sucker Punch",
+                    "Sacred Sword"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "27",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Jo\u00e3o Vitor Antunes's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Safety Goggles",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Close Combat",
+                    "Aqua Jet",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Icicle Crash",
+                    "Sucker Punch",
+                    "Sacred Sword",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Water",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "Tera Blast",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Heatran",
+                "item": "Leftovers",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Heat Wave",
+                    "Flash Cannon",
+                    "Earth Power",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "28",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Stefan Mott's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Flutter Mane",
+                "item": "Choice Specs",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Moonblast",
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Thunderbolt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Maushold-Four",
+                "item": "Rocky Helmet",
+                "ability": "Friend Guard",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Follow Me",
+                    "Protect",
+                    "Beat Up",
+                    "Taunt"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine-Hisui",
+                "item": "Choice Band",
+                "ability": "Intimidate",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Flare Blitz",
+                    "Rock Slide",
+                    "Extreme Speed",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Annihilape",
+                "item": "Leftovers",
+                "ability": "Defiant",
+                "tera_type": "Water",
+                "moves": [
+                    "Rage Fist",
+                    "Protect",
+                    "Drain Punch",
+                    "Bulk Up"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Rillaboom",
+                "item": "Assault Vest",
+                "ability": "Grassy Surge",
+                "tera_type": "Water",
+                "moves": [
+                    "Wood Hammer",
+                    "U-turn",
+                    "Stomping Tantrum",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Mental Herb",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Tailwind",
+                    "Taunt",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "29",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Daniel Bezerra's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Band",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "Close Combat",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Armarouge",
+                "item": "Weakness Policy",
+                "ability": "Weak Armor",
+                "tera_type": "Psychic",
+                "moves": [
+                    "Heat Wave",
+                    "Expanding Force",
+                    "Stored Power",
+                    "Endure"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Sitrus Berry",
+                "ability": "Prankster",
+                "tera_type": "Dark",
+                "moves": [
+                    "Bleakwind Storm",
+                    "U-turn",
+                    "Rain Dance",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ursaluna",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Facade",
+                    "Earthquake",
+                    "Shadow Claw",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Indeedee-F",
+                "item": "Rocky Helmet",
+                "ability": "Psychic Surge",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Dazzling Gleam",
+                    "Follow Me",
+                    "Helping Hand",
+                    "Trick Room"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Roaring Moon",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Steel",
+                "moves": [
+                    "Iron Head",
+                    "Earthquake",
+                    "U-turn",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "30",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Gian Pierre Gustavo Rodriguez Peralta's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Heatran",
+                "item": "Assault Vest",
+                "ability": "Flash Fire",
+                "tera_type": "Grass",
+                "moves": [
+                    "Heat Wave",
+                    "Flash Cannon",
+                    "Earth Power",
+                    "Tera Blast"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Ursaluna",
+                "item": "Flame Orb",
+                "ability": "Guts",
+                "tera_type": "Water",
+                "moves": [
+                    "Facade",
+                    "Protect",
+                    "Ice Punch",
+                    "Headlong Rush"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Landorus-Therian",
+                "item": "Choice Scarf",
+                "ability": "Intimidate",
+                "tera_type": "Flying",
+                "moves": [
+                    "Stomping Tantrum",
+                    "Tera Blast",
+                    "U-turn",
+                    "Rock Slide"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Sitrus Berry",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Taunt",
+                    "Sunny Day",
+                    "Tailwind"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Chien-Pao",
+                "item": "Focus Sash",
+                "ability": "Sword of Ruin",
+                "tera_type": "Grass",
+                "moves": [
+                    "Icicle Crash",
+                    "Sacred Sword",
+                    "Protect",
+                    "Sucker Punch"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Safety Goggles",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Close Combat",
+                    "Surging Strikes",
+                    "Detect",
+                    "Aqua Jet"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "31",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Christian Rangel's 2023 Curitiba Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Landorus-Therian",
+                "item": "Assault Vest",
+                "ability": "Intimidate",
+                "tera_type": "Water",
+                "moves": [
+                    "Earthquake",
+                    "Stomping Tantrum",
+                    "Rock Slide",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Tornadus",
+                "item": "Focus Sash",
+                "ability": "Prankster",
+                "tera_type": "Ghost",
+                "moves": [
+                    "Bleakwind Storm",
+                    "Icy Wind",
+                    "Tailwind",
+                    "Rain Dance"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Rocky Helmet",
+                "ability": "Regenerator",
+                "tera_type": "Water",
+                "moves": [
+                    "Leaf Storm",
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Urshifu-Rapid-Strike",
+                "item": "Choice Scarf",
+                "ability": "Unseen Fist",
+                "tera_type": "Water",
+                "moves": [
+                    "Close Combat",
+                    "Surging Strikes",
+                    "Aqua Jet",
+                    "U-turn"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Gholdengo",
+                "item": "Choice Specs",
+                "ability": "Good as Gold",
+                "tera_type": "Steel",
+                "moves": [
+                    "Make It Rain",
+                    "Shadow Ball",
+                    "Thunderbolt",
+                    "Trick"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Booster Energy",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Shadow Ball",
+                    "Dazzling Gleam",
+                    "Misty Terrain",
+                    "Protect"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "32",
+        "winrate": "4-3"
+    },
+    {
+        "trainer_name": "by VGCPastes",
+        "tournament_name": "Ian Roberts's 2023 Orlando Regionals Open Team List",
+        "pokemons": [
+            {
+                "name": "Gothitelle",
+                "item": "Leftovers",
+                "ability": "Shadow Tag",
+                "tera_type": "Steel",
+                "moves": [
+                    "Protect",
+                    "Psychic",
+                    "Fake Out",
+                    "Heal Pulse"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Amoonguss",
+                "item": "Sitrus Berry",
+                "ability": "Regenerator",
+                "tera_type": "Dark",
+                "moves": [
+                    "Protect",
+                    "Pollen Puff",
+                    "Spore",
+                    "Rage Powder"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Flutter Mane",
+                "item": "Focus Sash",
+                "ability": "Protosynthesis",
+                "tera_type": "Fairy",
+                "moves": [
+                    "Protect",
+                    "Shadow Ball",
+                    "Moonblast",
+                    "Perish Song"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Arcanine",
+                "item": "Safety Goggles",
+                "ability": "Intimidate",
+                "tera_type": "Dark",
+                "moves": [
+                    "Protect",
+                    "Flare Blitz",
+                    "Will-O-Wisp",
+                    "Snarl"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Palafin",
+                "item": "Mystic Water",
+                "ability": "Zero to Hero",
+                "tera_type": "Water",
+                "moves": [
+                    "Protect",
+                    "Jet Punch",
+                    "Wave Crash",
+                    "Close Combat"
+                ],
+                "evs": {},
+                "nature": ""
+            },
+            {
+                "name": "Iron Hands",
+                "item": "Assault Vest",
+                "ability": "Quark Drive",
+                "tera_type": "Grass",
+                "moves": [
+                    "Drain Punch",
+                    "Wild Charge",
+                    "Volt Switch",
+                    "Fake Out"
+                ],
+                "evs": {},
+                "nature": ""
+            }
+        ],
+        "placement": "105",
+        "winrate": "7-3"
+    }
+]
